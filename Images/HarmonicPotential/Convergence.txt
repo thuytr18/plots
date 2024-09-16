@@ -1,0 +1,1429 @@
+[  2%] Built target MADmuparser-obj
+[  3%] Built target MADtinyxml-obj
+[  4%] Built target MADmisc-obj
+[  6%] Built target MADtensor-obj
+[  7%] Built target MADlinalg-obj
+[ 14%] Built target MADmra-obj
+[ 17%] Built target MADworld-obj
+[ 17%] Built target MADmuparser
+[ 17%] Built target MADtinyxml
+[ 18%] Built target MADgtest
+[ 18%] Built target MADnlohmann_json-obj
+[ 28%] Built target MADchem-obj
+[ 31%] Built target MADresponse-obj
+[ 35%] Built target MADresponse_base-obj
+[ 35%] Built target MADall_response-obj
+[ 35%] Built target MADworld
+[ 35%] Built target MADnlohmann_json
+[ 36%] Built target madness
+[ 37%] Built target test_hashdc
+[ 37%] Built target test_future
+[ 38%] Built target test_prof
+[ 40%] Built target test_ar
+[ 40%] Built target test_hello
+[ 40%] Built target test_atomicint
+[ 41%] Built target test_future2
+[ 41%] Built target test_future3
+[ 41%] Built target test_world
+[ 42%] Built target test_hashthreaded
+[ 42%] Built target test_worldprofile
+[ 42%] Built target test_dc
+[ 42%] Built target test_queue
+[ 43%] Built target test_binsorter
+[ 43%] Built target test_vector
+[ 43%] Built target test_worldptr
+[ 45%] Built target test_worldref
+[ 45%] Built target test_tree
+[ 45%] Built target test_stack
+[ 45%] Built target test_googletest
+[ 46%] Built target MADmisc
+[ 46%] Built target MADtensor
+[ 46%] Built target interp3
+[ 47%] Built target test_distributed_matrix
+[ 47%] Built target jimkernel
+[ 47%] Built target MADlinalg
+[ 50%] Built target oldtest
+[ 50%] Built target test_systolic
+[ 50%] Built target test_tensor
+[ 50%] Built target test_Zmtxmq
+[ 51%] Built target test_mtxmq
+[ 52%] Built target test_jacobi
+[ 52%] Built target MADmra
+[ 52%] Built target test_solvers
+[ 52%] Built target test_linalg
+[ 53%] Built target testseprep
+[ 54%] Built target mraplot
+[ 54%] Built target testpdiff
+[ 56%] Built target testproj
+[ 56%] Built target testbsh
+[ 56%] Built target testopdir
+[ 56%] Built target testgconv
+[ 56%] Built target testdiff1Db
+[ 57%] Built target testinnerext
+[ 60%] Built target testgaxpyext
+[ 60%] Built target testvmra
+[ 60%] Built target test_cloud
+[ 62%] Built target test_tree_state
+[ 62%] Built target test_vectormacrotask
+[ 62%] Built target test_QCCalculationParametersBase
+[ 63%] Built target test_macrotaskpartitioner
+[ 64%] Built target libtest_sepop
+[ 64%] Built target testqm
+[ 65%] Built target testperiodic
+[ 65%] Built target test6
+[ 65%] Built target testdiff3D
+[ 65%] Built target testbc
+[ 66%] Built target testdiff1D
+[ 67%] Built target testdiff2D
+[ 67%] Built target MADchem
+[ 68%] Built target tdse
+[ 69%] Built target tdse4
+[ 69%] Built target testsuite
+[ 70%] Built target testper
+[ 71%] Built target test_pointgroupsymmetry
+[ 71%] Built target test_qc
+[ 71%] Built target test_masks_and_boxes
+[ 71%] Built target plotxc
+[ 71%] Built target test_MolecularOrbitals
+[ 71%] Built target test_BSHApply
+[ 71%] Built target test_projector
+[ 72%] Built target benchmark_exchange_operator
+[ 72%] Built target testxc
+[ 73%] Built target test_low_rank_function
+[ 73%] Built target test_ccpairfunction
+[ 73%] Built target test_localizer
+[ 76%] Built target testpg
+[ 76%] Built target plot2cube
+[ 76%] Built target plot2plane
+[ 76%] Built target MADresponse_base
+[ 76%] Built target MADresponse
+[ 76%] Built target MADall_response
+[ 76%] Built target moldft
+[ 77%] Built target testperiodicdft
+[ 78%] Built target pno
+[ 78%] Built target nemo
+[ 78%] Built target cis
+[ 80%] Built target DFdriver
+[ 80%] Built target cc2
+[ 80%] Built target mp2
+[ 80%] Built target oep
+[ 81%] Built target znemo
+[ 81%] Built target madinfo
+[ 81%] Built target zcis
+[ 82%] Built target h2dft
+[ 82%] Built target hello
+[ 82%] Built target hedft
+[ 83%] Built target hatom_energy
+[ 84%] Built target he
+[ 85%] Built target h2
+[ 85%] Built target tdse_example
+[ 85%] Built target heat
+[ 87%] Built target csqrt
+[ 87%] Built target heat2
+[ 87%] Built target hatom
+[ 87%] Built target hatom_sf_dirac
+[ 87%] Built target sdf_shape_tester
+[ 88%] Built target test_gmres
+[ 88%] Built target vnucso
+[ 88%] Built target tdse1d
+[ 88%] Built target sininteg
+[ 88%] Built target functionio
+[ 89%] Built target hatom_1d
+[ 89%] Built target nonlinschro
+[ 89%] Built target dataloadbal
+[ 89%] Built target binaryop
+[ 90%] Built target dielectric
+[ 90%] Built target 3dharmonic
+[ 91%] Built target hehf
+[ 91%] Built target testsolver
+[ 92%] Built target dielectric_external_field
+[ 92%] Built target testspectralprop
+[ 93%] Built target tiny
+[ 94%] Built target h2dynamic
+[ 94%] Built target newsolver
+[ 94%] Built target testcomplexfunctionsolver
+[ 94%] Built target helium_exact
+[ 95%] Built target density_smoothing
+[ 95%] Built target ac_corr
+[ 96%] Built target siam_example
+[ 97%] Built target dirac-hatom
+[ 97%] Built target derivatives
+[ 97%] Built target array_worldobject
+[ 98%] Built target 1dharmonic
+[ 98%] Built target wavefunctions
+[100%] Built target molresponse
+/home/mochibee/OneDrive/Dokumente/UNIVERSITAET/2024_SS/Bachelorarbeit/Madness/plot
+MADNESS runtime initialized with 15 threads in the pool and affinity OFF
+starting at time 0.2
+Order of the first monomial:
+0
+Counter: 1 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 0
+All zero
+Order of the first monomial:
+1
+Counter: 2 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 1
+First non-zero: 1
+Break
+Order of the first monomial:
+2
+Counter: 3 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 2
+First non-zero: 1
+Break
+Order of the first monomial:
+3
+Counter: 4 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 3
+First non-zero: 1
+Break
+Order of the first monomial:
+4
+Counter: 5 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 4
+First non-zero: 1
+Break
+Order of the first monomial:
+5
+Counter: 6 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 5
+First non-zero: 1
+Break
+Order of the first monomial:
+6
+Counter: 7 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 6
+First non-zero: 1
+Break
+Order of the first monomial:
+7
+Counter: 8 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 7
+First non-zero: 1
+Break
+Order of the first monomial:
+8
+Counter: 9 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 8
+First non-zero: 1
+Break
+Order of the first monomial:
+9
+Counter: 10 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 9
+First non-zero: 1
+Break
+Order of the first monomial:
+10
+Counter: 11 and current num: 12
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 10
+First non-zero: 1
+Break
+Order of the first monomial:
+11
+Counter: 12 and current num: 12
+Return guesses
+7.833213e-01
+5.874910e-01
+4.210352e-01
+5.801474e-01
+1.129084e+00
+2.811236e+00
+8.493949e+00
+3.011738e+01
+1.224326e+02
+5.608802e+02
+2.857400e+03
+1.601817e+04
+H: 
+[ 0,*]   0.78332134   0.00000000  -0.03916607   0.00000000  -0.20562185  -0.00000000  -0.47733644   0.00000000  -1.22087974   0.00000000  -3.61444659   0.00000000
+[ 1,*]  -0.00000000   0.58749100  -0.00000000   0.26437095  -0.00000000   0.11015456  -0.00000000  -0.19277048  -0.00000000  -1.30120078  -0.00000000  -5.96383688
+[ 2,*]  -0.03916607  -0.00000000   0.42103522  -0.00000000   0.46264916  -0.00000000   0.54159327   0.00000000   0.49799042   0.00000000  -0.75903379   0.00000000
+[ 3,*]   0.00000000   0.26437095  -0.00000000   0.58014736   0.00000000   0.98221152   0.00000000   1.78312699   0.00000000   3.28914640  -0.00000000   4.67167222
+[ 4,*]  -0.20562185  -0.00000000   0.46264916   0.00000000   1.12908427   0.00000000   2.55420893   0.00000000   6.18070367   0.00000000  15.80416773   0.00000000
+[ 5,*]   0.00000000   0.11015456  -0.00000000   0.98221152   0.00000000   2.81123624   0.00000000   7.91563804   0.00000000  23.75595023  -0.00000000  75.91467361
+[ 6,*]  -0.47733644  -0.00000000   0.54159327   0.00000000   2.55420893  -0.00000000   8.49394950  -0.00000000  28.52701974   0.00000000 101.75796675   0.00000000
+[ 7,*]   0.00000000  -0.19277048  -0.00000000   1.78312699   0.00000000   7.91563804  -0.00000000  30.11737624   0.00000000 117.26394264   0.00000000 483.35034207
+[ 8,*]  -1.22087974  -0.00000000   0.49799042  -0.00000000   6.18070367  -0.00000000  28.52701974   0.00000000 122.43260128   0.00000000 541.49775165   0.00000000
+[ 9,*]   0.00000000  -1.30120078   0.00000000   3.28914640   0.00000000  23.75595023  -0.00000000 117.26394264  -0.00000000 560.88022151  -0.00000000 2775.02455157
+[10,*]  -3.61444659  -0.00000000  -0.75903379  -0.00000000  15.80416773  -0.00000000 101.75796675  -0.00000000 541.49775165  -0.00000000 2857.40004846   0.00000000
+[11,*]   0.00000000  -5.96383688   0.00000000   4.67167223   0.00000000  75.91467361  -0.00000000 483.35034207  -0.00000000 2775.02455157  -0.00000000 16018.17279217
+
+dia_matrix: 
+[ 0,*]   0.50000474   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 1,*]   0.00000000   1.50005332   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 2,*]   0.00000000   0.00000000   2.50182737   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 3,*]   0.00000000   0.00000000   0.00000000   3.50640951   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 4,*]   0.00000000   0.00000000   0.00000000   0.00000000   4.56542861   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 5,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   5.62903467   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 6,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   7.05532583   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 7,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   8.29570042   0.00000000   0.00000000   0.00000000   0.00000000
+[ 8,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  10.59646839   0.00000000   0.00000000   0.00000000
+[ 9,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  12.06765655   0.00000000   0.00000000
+[10,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  16.03094724   0.00000000
+[11,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  17.75114714
+
+iteration 0 energy 5.000017e-01 norm 9.999983e-01 error 2.648093e-04
+Potential was shifted 1 times
+Final energy without shift:  5.000017e-01
+iteration 0 energy 1.500020e+00 norm 1.000000e+00 error 8.973999e-04
+iteration 1 energy 1.500024e+00 norm 9.999984e-01 error 5.536070e-04
+iteration 2 energy 1.500012e+00 norm 9.999997e-01 error 2.115020e-04
+Potential was shifted 3 times
+Final energy without shift:  1.500012e+00
+iteration 0 energy 2.500834e+00 norm 1.000064e+00 error 4.960521e-03
+iteration 1 energy 2.500092e+00 norm 1.000023e+00 error 3.316145e-03
+iteration 2 energy 2.500079e+00 norm 1.000010e+00 error 9.988080e-04
+iteration 3 energy 2.500026e+00 norm 1.000012e+00 error 4.160062e-04
+Potential was shifted 4 times
+Final energy without shift:  2.500026e+00
+iteration 0 energy 3.503038e+00 norm 1.000232e+00 error 9.298136e-03
+iteration 1 energy 3.500424e+00 norm 1.000096e+00 error 6.303816e-03
+iteration 2 energy 3.500254e+00 norm 1.000040e+00 error 2.065665e-03
+iteration 3 energy 3.500254e+00 norm 1.000047e+00 error 8.055449e-04
+iteration 4 energy 3.500058e+00 norm 1.000032e+00 error 5.191898e-04
+iteration 5 energy 3.500045e+00 norm 9.999836e-01 error 3.184675e-04
+Potential was shifted 6 times
+Final energy without shift:  3.500045e+00
+iteration 0 energy 4.538205e+00 norm 1.001776e+00 error 2.690009e-02
+iteration 1 energy 4.508159e+00 norm 1.001516e+00 error 1.983336e-02
+iteration 2 energy 4.501854e+00 norm 9.993713e-01 error 8.432685e-03
+iteration 3 energy 4.500887e+00 norm 1.000744e+00 error 3.417904e-03
+iteration 4 energy 4.500149e+00 norm 9.999296e-01 error 2.485093e-03
+iteration 5 energy 4.500019e+00 norm 1.000115e+00 error 1.209253e-03
+iteration 6 energy 4.499992e+00 norm 1.000010e+00 error 6.282696e-04
+iteration 7 energy 4.499989e+00 norm 1.000009e+00 error 3.557985e-04
+Potential was shifted 8 times
+Final energy without shift:  4.499989e+00
+iteration 0 energy 5.578104e+00 norm 1.003402e+00 error 3.770198e-02
+iteration 1 energy 5.518229e+00 norm 1.003309e+00 error 2.814983e-02
+iteration 2 energy 5.504023e+00 norm 9.988287e-01 error 1.274359e-02
+iteration 3 energy 5.501825e+00 norm 1.001288e+00 error 5.296874e-03
+iteration 4 energy 5.500239e+00 norm 9.993900e-01 error 3.771626e-03
+iteration 5 energy 5.500056e+00 norm 1.001175e+00 error 1.710578e-03
+iteration 6 energy 5.499994e+00 norm 9.995871e-01 error 7.246652e-04
+iteration 7 energy 5.499973e+00 norm 9.997143e-01 error 2.609500e-04
+Potential was shifted 8 times
+Final energy without shift:  5.499973e+00
+iteration 0 energy 6.896021e+00 norm 1.009964e+00 error 7.111208e-02
+iteration 1 energy 6.605545e+00 norm 1.027577e+00 error 5.637420e-02
+iteration 2 energy 6.531857e+00 norm 9.873974e-01 error 3.194828e-02
+iteration 3 energy 6.504611e+00 norm 1.007687e+00 error 1.653062e-02
+iteration 4 energy 6.499755e+00 norm 9.923476e-01 error 7.265126e-03
+iteration 5 energy 6.499684e+00 norm 1.010005e+00 error 3.723466e-03
+iteration 6 energy 6.500116e+00 norm 9.982043e-01 error 4.823962e-03
+iteration 7 energy 6.499782e+00 norm 9.948723e-01 error 3.094654e-03
+iteration 8 energy 6.499803e+00 norm 1.002803e+00 error 5.799626e-04
+iteration 9 energy 6.499810e+00 norm 9.992163e-01 error 4.258025e-04
+Potential was shifted 10 times
+Final energy without shift:  6.499810e+00
+iteration 0 energy 8.086165e+00 norm 1.013383e+00 error 8.724662e-02
+iteration 1 energy 7.655936e+00 norm 1.050326e+00 error 6.907269e-02
+iteration 2 energy 7.551723e+00 norm 9.799902e-01 error 4.165973e-02
+iteration 3 energy 7.504671e+00 norm 1.011430e+00 error 2.216702e-02
+iteration 4 energy 7.498586e+00 norm 9.921863e-01 error 8.897909e-03
+iteration 5 energy 7.499987e+00 norm 1.004882e+00 error 5.637105e-03
+iteration 6 energy 7.500073e+00 norm 1.007298e+00 error 7.295453e-03
+iteration 7 energy 7.499109e+00 norm 9.930870e-01 error 4.631030e-03
+iteration 8 energy 7.499435e+00 norm 1.004077e+00 error 5.568040e-03
+iteration 9 energy 7.499118e+00 norm 1.001022e+00 error 2.975042e-03
+iteration 10 energy 7.499135e+00 norm 1.001734e+00 error 2.469361e-04
+Potential was shifted 11 times
+Final energy without shift:  7.499135e+00
+iteration 0 energy 1.028363e+01 norm 1.018783e+00 error 1.433158e-01
+iteration 1 energy 9.054700e+00 norm 1.390640e+00 error 1.122621e-01
+iteration 2 energy 8.844774e+00 norm 9.175290e-01 error 9.728515e-02
+iteration 3 energy 8.567913e+00 norm 9.490115e-01 error 5.696363e-02
+iteration 4 energy 8.616350e+00 norm 1.263522e+00 error 4.577192e-02
+iteration 5 energy 9.344079e+00 norm 3.669772e+00 error 5.062520e-02
+iteration 6 energy 8.647315e+00 norm 4.651359e-01 error 1.893418e-01
+iteration 7 energy 9.110766e+00 norm 2.824953e-01 error 4.242189e-02
+iteration 8 energy 8.718042e+00 norm 4.348320e-01 error 7.649670e-02
+iteration 9 energy 8.539422e+00 norm 7.484305e-01 error 4.546891e-02
+iteration 10 energy 8.516096e+00 norm 8.082061e-01 error 1.867338e-02
+iteration 11 energy 8.514492e+00 norm 7.501731e-01 error 1.264428e-02
+iteration 12 energy 8.511458e+00 norm 7.477195e-01 error 1.667799e-02
+iteration 13 energy 8.497584e+00 norm 9.654194e-01 error 1.296086e-02
+iteration 14 energy 8.499925e+00 norm 9.963262e-01 error 2.392262e-03
+iteration 15 energy 8.498812e+00 norm 8.113016e-01 error 5.046629e-03
+iteration 16 energy 8.496977e+00 norm 9.986049e-01 error 6.322364e-03
+iteration 17 energy 8.497100e+00 norm 9.982130e-01 error 9.164017e-04
+iteration 18 energy 8.496907e+00 norm 9.987000e-01 error 1.256792e-03
+iteration 19 energy 8.496894e+00 norm 9.990095e-01 error 8.467742e-04
+iteration 20 energy 8.498263e+00 norm 1.002425e+00 error 7.455744e-04
+iteration 21 energy 8.497208e+00 norm 9.989033e-01 error 2.891974e-03
+iteration 22 energy 8.496256e+00 norm 9.943965e-01 error 7.999488e-04
+iteration 23 energy 8.496963e+00 norm 9.986240e-01 error 4.846045e-03
+iteration 24 energy 8.496767e+00 norm 9.986163e-01 error 9.040693e-04
+iteration 25 energy 8.499256e+00 norm 9.996686e-01 error 1.243178e-03
+iteration 26 energy 8.496792e+00 norm 1.000328e+00 error 1.702766e-03
+iteration 27 energy 8.497126e+00 norm 9.999787e-01 error 1.375223e-03
+iteration 28 energy 8.496839e+00 norm 9.997629e-01 error 9.969355e-04
+iteration 29 energy 8.496888e+00 norm 9.999162e-01 error 1.478149e-03
+iteration 30 energy 8.496889e+00 norm 9.999370e-01 error 8.958167e-04
+iteration 31 energy 8.496934e+00 norm 9.999435e-01 error 9.325326e-04
+iteration 32 energy 8.496919e+00 norm 9.999400e-01 error 9.110865e-04
+iteration 33 energy 8.496902e+00 norm 9.999347e-01 error 9.259755e-04
+iteration 34 energy 8.496901e+00 norm 9.999366e-01 error 9.156008e-04
+iteration 35 energy 8.496894e+00 norm 9.999323e-01 error 9.291132e-04
+iteration 36 energy 8.496812e+00 norm 9.996138e-01 error 9.063259e-04
+iteration 37 energy 8.496897e+00 norm 9.996239e-01 error 8.626451e-04
+iteration 38 energy 8.497810e+00 norm 9.996698e-01 error 8.158624e-04
+iteration 39 energy 8.496911e+00 norm 9.996284e-01 error 1.133789e-03
+iteration 40 energy 8.496915e+00 norm 9.996333e-01 error 7.986440e-04
+iteration 41 energy 8.496905e+00 norm 9.996478e-01 error 8.334524e-04
+iteration 42 energy 8.496911e+00 norm 9.996444e-01 error 8.303125e-04
+iteration 43 energy 8.496891e+00 norm 9.996513e-01 error 8.620762e-04
+iteration 44 energy 8.496899e+00 norm 9.996531e-01 error 8.061879e-04
+iteration 45 energy 8.498744e+00 norm 1.000742e+00 error 8.169613e-04
+iteration 46 energy 8.496893e+00 norm 9.996622e-01 error 2.734630e-03
+iteration 47 energy 8.496906e+00 norm 9.996378e-01 error 8.482565e-04
+iteration 48 energy 8.496898e+00 norm 9.996891e-01 error 7.184426e-04
+iteration 49 energy 8.497331e+00 norm 9.995591e-01 error 8.259076e-04
+iteration 50 energy 8.497155e+00 norm 9.996398e-01 error 1.948740e-03
+iteration 51 energy 8.496954e+00 norm 9.996998e-01 error 6.864814e-04
+iteration 52 energy 8.496933e+00 norm 9.996514e-01 error 7.459031e-04
+iteration 53 energy 8.496933e+00 norm 9.996444e-01 error 6.362501e-04
+iteration 54 energy 8.496869e+00 norm 9.997153e-01 error 6.219272e-04
+iteration 55 energy 8.496764e+00 norm 9.997558e-01 error 7.727579e-04
+iteration 56 energy 8.496820e+00 norm 9.996791e-01 error 1.300127e-03
+iteration 57 energy 8.496885e+00 norm 9.997118e-01 error 1.122974e-03
+iteration 58 energy 8.496928e+00 norm 9.996460e-01 error 7.323323e-04
+iteration 59 energy 8.496887e+00 norm 9.997196e-01 error 5.494884e-04
+iteration 60 energy 8.496902e+00 norm 9.996270e-01 error 1.048144e-03
+iteration 61 energy 8.496916e+00 norm 9.996281e-01 error 7.003589e-04
+iteration 62 energy 8.496906e+00 norm 9.996274e-01 error 6.984897e-04
+iteration 63 energy 8.496907e+00 norm 9.996273e-01 error 7.093859e-04
+iteration 64 energy 8.496910e+00 norm 9.996279e-01 error 7.354851e-04
+iteration 65 energy 8.496916e+00 norm 9.996297e-01 error 6.989564e-04
+iteration 66 energy 8.496903e+00 norm 9.996273e-01 error 7.230166e-04
+iteration 67 energy 8.496898e+00 norm 9.996268e-01 error 7.465173e-04
+iteration 68 energy 8.496899e+00 norm 9.996269e-01 error 7.377682e-04
+iteration 69 energy 8.496901e+00 norm 9.996268e-01 error 7.361575e-04
+iteration 70 energy 8.496901e+00 norm 9.996268e-01 error 7.550111e-04
+iteration 71 energy 8.496899e+00 norm 9.996268e-01 error 7.463162e-04
+iteration 72 energy 8.496903e+00 norm 9.996269e-01 error 7.447102e-04
+iteration 73 energy 8.496925e+00 norm 9.996283e-01 error 7.524284e-04
+iteration 74 energy 8.496895e+00 norm 9.996266e-01 error 7.615904e-04
+iteration 75 energy 8.496900e+00 norm 9.996270e-01 error 7.386716e-04
+iteration 76 energy 8.496896e+00 norm 9.996263e-01 error 7.354069e-04
+iteration 77 energy 8.496897e+00 norm 9.996268e-01 error 7.604665e-04
+iteration 78 energy 8.496915e+00 norm 9.996281e-01 error 7.441641e-04
+iteration 79 energy 8.496915e+00 norm 9.996277e-01 error 7.553107e-04
+iteration 80 energy 8.496959e+00 norm 9.996306e-01 error 7.646590e-04
+iteration 81 energy 8.496965e+00 norm 9.996313e-01 error 8.121557e-04
+iteration 82 energy 8.496845e+00 norm 9.996239e-01 error 8.914992e-04
+iteration 83 energy 8.496909e+00 norm 9.996287e-01 error 6.866205e-04
+iteration 84 energy 8.496835e+00 norm 9.996407e-01 error 6.369207e-04
+iteration 85 energy 8.496674e+00 norm 9.997491e-01 error 1.917461e-03
+iteration 86 energy 8.496904e+00 norm 9.996444e-01 error 3.562574e-03
+iteration 87 energy 8.496642e+00 norm 9.996541e-01 error 4.462324e-04
+Potential was shifted 88 times
+Final energy without shift:  8.496642e+00
+iteration 0 energy 1.173455e+01 norm 1.020732e+00 error 1.733313e-01
+iteration 1 energy 1.029567e+01 norm 1.556589e+00 error 1.344104e-01
+iteration 2 energy 1.002575e+01 norm 8.954129e-01 error 1.181567e-01
+iteration 3 energy 9.651179e+00 norm 9.128509e-01 error 7.195759e-02
+iteration 4 energy 9.728071e+00 norm 1.423275e+00 error 6.899923e-02
+iteration 5 energy 1.041431e+01 norm 9.278186e-01 error 6.435811e-02
+iteration 6 energy 1.157010e+01 norm 1.639094e+00 error 9.881567e-02
+iteration 7 energy 9.944118e+00 norm 2.848487e+00 error 5.679539e-02
+iteration 8 energy 1.057239e+01 norm 2.030157e+00 error 6.498805e-02
+iteration 9 energy 1.064730e+01 norm 6.220205e-01 error 6.190479e-02
+iteration 10 energy 1.006293e+01 norm 3.200636e+00 error 8.833516e-02
+iteration 11 energy 9.839913e+00 norm 1.524293e+00 error 7.006703e-02
+iteration 12 energy 9.529646e+00 norm 3.398647e+01 error 4.696888e-02
+iteration 13 energy 9.497119e+00 norm 9.507003e-01 error 1.668308e-02
+iteration 14 energy 9.501914e+00 norm 1.360379e+00 error 4.680316e-03
+iteration 15 energy 9.493872e+00 norm 1.052332e+00 error 7.040121e-03
+iteration 16 energy 9.491147e+00 norm 9.994892e-01 error 2.462958e-03
+iteration 17 energy 9.493040e+00 norm 9.986948e-01 error 1.784996e-03
+iteration 18 energy 9.505654e+00 norm 1.899197e+00 error 1.880982e-03
+iteration 19 energy 9.490814e+00 norm 5.954846e-01 error 8.671057e-03
+iteration 20 energy 9.491779e+00 norm 1.051892e+00 error 4.165869e-03
+iteration 21 energy 9.491749e+00 norm 9.964350e-01 error 1.293234e-03
+iteration 22 energy 9.491218e+00 norm 9.952759e-01 error 1.515870e-03
+iteration 23 energy 9.491378e+00 norm 9.953494e-01 error 1.505839e-03
+iteration 24 energy 9.491432e+00 norm 9.962839e-01 error 1.383844e-03
+iteration 25 energy 9.441980e+00 norm 1.007217e+00 error 3.009832e-03
+iteration 26 energy 9.491571e+00 norm 9.973722e-01 error 5.193701e-02
+iteration 27 energy 9.491516e+00 norm 9.957292e-01 error 1.754954e-03
+iteration 28 energy 9.341342e+00 norm 1.047197e+00 error 2.075995e-03
+iteration 29 energy 9.491416e+00 norm 9.999130e-01 error 8.423203e-02
+iteration 30 energy 9.491149e+00 norm 1.000533e+00 error 3.308487e-03
+iteration 31 energy 9.491276e+00 norm 1.000032e+00 error 4.600276e-03
+iteration 32 energy 9.480060e+00 norm 1.007138e+00 error 4.263413e-03
+iteration 33 energy 9.490784e+00 norm 9.997026e-01 error 2.587447e-02
+iteration 34 energy 9.490904e+00 norm 9.996719e-01 error 7.037987e-03
+iteration 35 energy 9.489152e+00 norm 1.001923e+00 error 6.660401e-03
+iteration 36 energy 9.489650e+00 norm 1.001657e+00 error 1.205273e-02
+iteration 37 energy 9.490911e+00 norm 9.998670e-01 error 1.072730e-02
+iteration 38 energy 9.486171e+00 norm 9.992263e-01 error 6.773232e-03
+iteration 39 energy 9.480135e+00 norm 9.997774e-01 error 1.857517e-02
+iteration 40 energy 8.491013e+00 norm 1.076940e+00 error 2.685658e-02
+iteration 41 energy 9.491519e+00 norm 9.999172e-01 error 2.055992e-01
+iteration 42 energy 9.488858e+00 norm 1.000410e+00 error 1.938531e-03
+iteration 43 energy 9.475749e+00 norm 9.994361e-01 error 1.327384e-02
+iteration 44 energy 9.489521e+00 norm 9.989938e-01 error 3.145860e-02
+iteration 45 energy 9.491601e+00 norm 9.997384e-01 error 1.166875e-02
+iteration 46 energy 9.491212e+00 norm 9.982562e-01 error 1.369275e-03
+iteration 47 energy 9.491486e+00 norm 1.000021e+00 error 5.108826e-03
+iteration 48 energy 9.491593e+00 norm 9.994928e-01 error 3.137505e-03
+iteration 49 energy 9.491565e+00 norm 1.000001e+00 error 1.738530e-03
+iteration 50 energy 9.493054e+00 norm 1.003665e+00 error 1.898655e-03
+iteration 51 energy 9.491700e+00 norm 1.000572e+00 error 1.342199e-02
+iteration 52 energy 9.492067e+00 norm 1.002337e+00 error 3.318656e-03
+iteration 53 energy 9.476769e+00 norm 9.983795e-01 error 8.528041e-03
+iteration 54 energy 9.491990e+00 norm 1.000166e+00 error 3.118648e-02
+iteration 55 energy 9.491436e+00 norm 1.000081e+00 error 1.990775e-03
+iteration 56 energy 9.484498e+00 norm 1.002185e+00 error 1.824633e-03
+iteration 57 energy 9.488985e+00 norm 1.000508e+00 error 2.214387e-02
+iteration 58 energy 9.491206e+00 norm 1.000114e+00 error 1.225525e-02
+iteration 59 energy 9.479704e+00 norm 1.001471e+00 error 4.636639e-03
+iteration 60 energy 9.491316e+00 norm 1.000131e+00 error 2.783107e-02
+iteration 61 energy 9.474674e+00 norm 1.003807e+00 error 4.195869e-03
+iteration 62 energy 9.491556e+00 norm 1.000103e+00 error 3.286734e-02
+iteration 63 energy 9.490494e+00 norm 1.000374e+00 error 1.782152e-03
+iteration 64 energy 9.491554e+00 norm 9.991123e-01 error 7.940954e-03
+iteration 65 energy 9.491879e+00 norm 9.980482e-01 error 2.401727e-03
+iteration 66 energy 9.491744e+00 norm 9.985619e-01 error 1.338053e-03
+iteration 67 energy 9.491624e+00 norm 9.975258e-01 error 1.629509e-03
+Increasing subspace singular value threshold  -3.595641e+01 1.000000e-12
+Increasing subspace singular value threshold  -3.595641e+01 1.000000e-10
+Forcing full step due to subspace malfunction
+iteration 68 energy 9.491744e+00 norm 9.988046e-01 error 4.139202e-03
+iteration 69 energy 9.491567e+00 norm 1.000238e+00 error 2.859482e-03
+iteration 70 energy 9.489483e+00 norm 1.000653e+00 error 2.575778e-03
+iteration 71 energy 9.491641e+00 norm 1.000027e+00 error 1.188943e-02
+iteration 72 energy 9.255541e+00 norm 1.017135e+00 error 1.514848e-03
+iteration 73 energy 9.491359e+00 norm 1.000003e+00 error 1.182167e-01
+iteration 74 energy 9.491671e+00 norm 9.981369e-01 error 4.069861e-03
+iteration 75 energy 9.491063e+00 norm 9.989107e-01 error 3.249767e-03
+iteration 76 energy 9.492087e+00 norm 1.001190e+00 error 6.571794e-03
+iteration 77 energy 9.490757e+00 norm 9.952390e-01 error 3.211756e-03
+iteration 78 energy 9.491436e+00 norm 9.994904e-01 error 9.151531e-03
+iteration 79 energy 9.487926e+00 norm 1.001780e+00 error 4.329454e-03
+iteration 80 energy 9.491512e+00 norm 1.000078e+00 error 1.463121e-02
+iteration 81 energy 9.491514e+00 norm 1.000046e+00 error 2.179848e-03
+iteration 82 energy 9.491506e+00 norm 1.000043e+00 error 2.216308e-03
+iteration 83 energy 9.455211e+00 norm 1.002580e+00 error 2.326223e-03
+iteration 84 energy 9.490074e+00 norm 9.999599e-01 error 4.867857e-02
+iteration 85 energy 9.491413e+00 norm 9.998624e-01 error 1.060307e-02
+iteration 86 energy 9.491255e+00 norm 9.996471e-01 error 3.231790e-03
+iteration 87 energy 9.490533e+00 norm 9.975192e-01 error 5.060046e-03
+iteration 88 energy 9.491621e+00 norm 9.988396e-01 error 1.019323e-02
+iteration 89 energy 9.490304e+00 norm 9.988266e-01 error 3.070594e-03
+iteration 90 energy 9.488083e+00 norm 9.987371e-01 error 1.036898e-02
+iteration 91 energy 9.489691e+00 norm 9.992468e-01 error 1.618001e-02
+iteration 92 energy 9.486320e+00 norm 9.992044e-01 error 1.206832e-02
+iteration 93 energy 9.490818e+00 norm 9.986888e-01 error 2.023513e-02
+iteration 94 energy 9.490553e+00 norm 9.991269e-01 error 6.836641e-03
+iteration 95 energy 9.491106e+00 norm 9.996494e-01 error 8.262631e-03
+iteration 96 energy 9.491080e+00 norm 9.996948e-01 error 5.751524e-03
+iteration 97 energy 9.490372e+00 norm 9.993115e-01 error 5.807851e-03
+iteration 98 energy 9.491265e+00 norm 9.977569e-01 error 1.016226e-02
+iteration 99 energy 9.383075e+00 norm 9.883431e-01 error 6.582984e-03
+iteration 100 energy 9.491523e+00 norm 1.000052e+00 error 8.349933e-02
+iteration 101 energy 9.491491e+00 norm 1.000052e+00 error 2.426756e-03
+iteration 102 energy 9.491489e+00 norm 1.000052e+00 error 2.829660e-03
+iteration 103 energy 9.491475e+00 norm 1.000053e+00 error 2.852869e-03
+iteration 104 energy 9.491484e+00 norm 1.000053e+00 error 3.036690e-03
+iteration 105 energy 9.491490e+00 norm 1.000052e+00 error 2.897021e-03
+iteration 106 energy 9.478109e+00 norm 1.000806e+00 error 2.840383e-03
+iteration 107 energy 9.491344e+00 norm 1.000028e+00 error 3.245784e-02
+iteration 108 energy 9.489712e+00 norm 1.000141e+00 error 4.396065e-03
+iteration 109 energy 9.488784e+00 norm 1.000189e+00 error 1.207407e-02
+iteration 110 energy 9.491248e+00 norm 9.994345e-01 error 1.483083e-02
+Increasing subspace singular value threshold  -4.665929e+00 1.000000e-12
+Increasing subspace singular value threshold  -4.665929e+00 1.000000e-10
+iteration 111 energy 9.491535e+00 norm 9.987736e-01 error 5.795862e-03
+iteration 112 energy 9.490763e+00 norm 1.000185e+00 error 4.291103e-03
+iteration 113 energy 9.491485e+00 norm 1.000075e+00 error 8.389626e-03
+iteration 114 energy 9.491621e+00 norm 1.000053e+00 error 4.023355e-03
+iteration 115 energy 9.491561e+00 norm 1.000024e+00 error 1.494992e-03
+iteration 116 energy 9.486190e+00 norm 1.000207e+00 error 2.453789e-03
+iteration 117 energy 9.418402e+00 norm 1.003985e+00 error 2.026311e-02
+iteration 118 energy 9.491145e+00 norm 1.000031e+00 error 7.480304e-02
+iteration 119 energy 9.490791e+00 norm 1.000038e+00 error 5.958028e-03
+iteration 120 energy 9.487486e+00 norm 1.000220e+00 error 8.003415e-03
+iteration 121 energy 9.239470e+00 norm 1.013060e+00 error 1.810537e-02
+iteration 122 energy 9.487556e+00 norm 1.000205e+00 error 1.350699e-01
+iteration 123 energy 9.491552e+00 norm 1.000043e+00 error 1.789515e-02
+iteration 124 energy 9.491561e+00 norm 1.000036e+00 error 1.765261e-03
+iteration 125 energy 9.491588e+00 norm 9.999959e-01 error 2.440712e-03
+iteration 126 energy 9.491528e+00 norm 9.999862e-01 error 1.684734e-03
+iteration 127 energy 9.491258e+00 norm 1.000009e+00 error 2.582003e-03
+iteration 128 energy 9.490946e+00 norm 1.000086e+00 error 4.902407e-03
+iteration 129 energy 9.491521e+00 norm 1.000012e+00 error 8.304684e-03
+iteration 130 energy 9.490560e+00 norm 1.000097e+00 error 2.834173e-03
+iteration 131 energy 9.491417e+00 norm 1.000030e+00 error 8.763575e-03
+iteration 132 energy 9.491265e+00 norm 9.995537e-01 error 4.153782e-03
+iteration 133 energy 9.280251e+00 norm 1.008671e+00 error 5.458014e-03
+iteration 134 energy 9.483600e+00 norm 1.001907e+00 error 1.241334e-01
+iteration 135 energy 9.490855e+00 norm 1.000056e+00 error 2.466735e-02
+iteration 136 energy 9.491466e+00 norm 1.000010e+00 error 7.512274e-03
+iteration 137 energy 9.491584e+00 norm 9.999984e-01 error 3.381056e-03
+iteration 138 energy 9.491552e+00 norm 1.000009e+00 error 1.557812e-03
+iteration 139 energy 9.491545e+00 norm 9.999994e-01 error 1.864280e-03
+iteration 140 energy 9.490667e+00 norm 1.000077e+00 error 2.718851e-03
+iteration 141 energy 9.491552e+00 norm 9.999955e-01 error 8.701871e-03
+iteration 142 energy 9.491595e+00 norm 9.999840e-01 error 2.480904e-03
+iteration 143 energy 8.921399e+00 norm 1.033362e+00 error 1.604997e-03
+iteration 144 energy 9.379833e+00 norm 1.006641e+00 error 1.916781e-01
+iteration 145 energy 9.491123e+00 norm 9.999835e-01 error 9.192299e-02
+iteration 146 energy 9.490638e+00 norm 1.000015e+00 error 6.202888e-03
+iteration 147 energy 9.491548e+00 norm 1.000028e+00 error 8.724756e-03
+iteration 148 energy 9.489700e+00 norm 1.000279e+00 error 2.425434e-03
+iteration 149 energy 9.483037e+00 norm 1.000766e+00 error 1.213314e-02
+iteration 150 energy 9.491363e+00 norm 9.999414e-01 error 2.581040e-02
+iteration 151 energy 9.491203e+00 norm 9.999456e-01 error 4.208552e-03
+iteration 152 energy 9.491210e+00 norm 9.999422e-01 error 5.480319e-03
+iteration 153 energy 9.491250e+00 norm 9.999563e-01 error 5.439072e-03
+Increasing subspace singular value threshold  -5.235896e+03 1.000000e-12
+iteration 154 energy 9.491466e+00 norm 1.000046e+00 error 5.101936e-03
+iteration 155 energy 9.490097e+00 norm 9.999765e-01 error 3.228336e-03
+iteration 156 energy 9.491505e+00 norm 9.998648e-01 error 1.095695e-02
+iteration 157 energy 9.491327e+00 norm 1.000578e+00 error 3.377771e-03
+iteration 158 energy 9.486868e+00 norm 1.000513e+00 error 4.479098e-03
+iteration 159 energy 9.489944e+00 norm 1.000636e+00 error 1.929738e-02
+iteration 160 energy 9.415386e+00 norm 1.004196e+00 error 1.135950e-02
+iteration 161 energy 9.491503e+00 norm 1.000060e+00 error 7.636389e-02
+iteration 162 energy 9.479092e+00 norm 9.997486e-01 error 2.723706e-03
+iteration 163 energy 9.488071e+00 norm 1.000162e+00 error 3.128886e-02
+iteration 164 energy 9.489383e+00 norm 1.000230e+00 error 1.666618e-02
+iteration 165 energy 9.491115e+00 norm 1.000069e+00 error 1.315724e-02
+iteration 166 energy 9.491524e+00 norm 1.000001e+00 error 6.158344e-03
+iteration 167 energy 9.491481e+00 norm 1.000018e+00 error 2.502507e-03
+iteration 168 energy 9.491272e+00 norm 1.000114e+00 error 3.080608e-03
+iteration 169 energy 9.488606e+00 norm 1.000305e+00 error 4.977976e-03
+iteration 170 energy 9.489577e+00 norm 1.000225e+00 error 1.541607e-02
+iteration 171 energy 9.490149e+00 norm 1.000181e+00 error 1.269627e-02
+iteration 172 energy 9.464030e+00 norm 1.002020e+00 error 1.077563e-02
+iteration 173 energy 9.491501e+00 norm 9.998724e-01 error 4.628036e-02
+iteration 174 energy 9.491691e+00 norm 9.992121e-01 error 2.647255e-03
+iteration 175 energy 9.491273e+00 norm 1.000110e+00 error 2.293942e-03
+iteration 176 energy 9.490602e+00 norm 1.000144e+00 error 4.967257e-03
+iteration 177 energy 9.489852e+00 norm 1.000153e+00 error 9.076497e-03
+iteration 178 energy 9.490575e+00 norm 1.000099e+00 error 1.187603e-02
+iteration 179 energy 9.490334e+00 norm 1.000109e+00 error 9.165556e-03
+iteration 180 energy 9.491477e+00 norm 9.999496e-01 error 1.017001e-02
+iteration 181 energy 9.491572e+00 norm 9.999817e-01 error 3.282228e-03
+iteration 182 energy 9.484990e+00 norm 1.000175e+00 error 2.102140e-03
+iteration 183 energy 8.511275e+00 norm 1.063406e+00 error 2.287833e-02
+iteration 184 energy 9.491569e+00 norm 9.999124e-01 error 2.338978e-01
+iteration 185 energy 9.487182e+00 norm 1.000146e+00 error 1.499825e-03
+iteration 186 energy 9.483775e+00 norm 1.000495e+00 error 1.863508e-02
+iteration 187 energy 9.472602e+00 norm 1.001309e+00 error 2.468196e-02
+iteration 188 energy 9.487846e+00 norm 1.000311e+00 error 3.860719e-02
+iteration 189 energy 9.418963e+00 norm 1.003841e+00 error 1.729090e-02
+iteration 190 energy 9.402901e+00 norm 1.004954e+00 error 7.457250e-02
+iteration 191 energy 9.484492e+00 norm 1.000320e+00 error 8.219889e-02
+iteration 192 energy 9.488011e+00 norm 1.000063e+00 error 2.366897e-02
+iteration 193 energy 2.770937e+00 norm 2.024706e+00 error 1.688524e-02
+iteration 194 energy 9.490327e+00 norm 1.000081e+00 error 1.937165e-01
+iteration 195 energy 9.383633e+00 norm 1.006354e+00 error 1.000976e-02
+iteration 196 energy 9.490810e+00 norm 1.000072e+00 error 9.034249e-02
+iteration 197 energy 9.491258e+00 norm 1.000010e+00 error 7.944405e-03
+iteration 198 energy 9.491225e+00 norm 1.000011e+00 error 5.181507e-03
+iteration 199 energy 9.491416e+00 norm 1.000003e+00 error 5.415568e-03
+iteration 200 energy 9.491417e+00 norm 1.000004e+00 error 3.748247e-03
+iteration 201 energy 9.491506e+00 norm 1.000058e+00 error 3.736365e-03
+iteration 202 energy 9.487564e+00 norm 1.000333e+00 error 4.437683e-03
+iteration 203 energy 9.491567e+00 norm 9.999977e-01 error 1.806940e-02
+iteration 204 energy 9.491223e+00 norm 1.000615e+00 error 2.075085e-03
+iteration 205 energy 9.498511e+00 norm 9.876740e-01 error 2.656306e-03
+iteration 206 energy 9.479479e+00 norm 1.000643e+00 error 1.647365e-02
+iteration 207 energy 9.491470e+00 norm 9.999896e-01 error 3.036295e-02
+iteration 208 energy 9.491451e+00 norm 9.999913e-01 error 2.568996e-03
+iteration 209 energy 9.491541e+00 norm 9.999731e-01 error 2.849847e-03
+iteration 210 energy 9.490966e+00 norm 1.000010e+00 error 2.573183e-03
+iteration 211 energy 9.490863e+00 norm 1.000023e+00 error 7.071410e-03
+iteration 212 energy 9.483170e+00 norm 1.000483e+00 error 7.586447e-03
+iteration 213 energy 9.258972e+00 norm 1.013405e+00 error 2.610608e-02
+iteration 214 energy 9.491283e+00 norm 1.000048e+00 error 1.306476e-01
+iteration 215 energy 9.484639e+00 norm 1.000156e+00 error 5.804930e-03
+iteration 216 energy 9.485906e+00 norm 1.000535e+00 error 2.288366e-02
+iteration 217 energy 9.485392e+00 norm 1.000112e+00 error 2.184736e-02
+iteration 218 energy 9.435745e+00 norm 1.003177e+00 error 2.189602e-02
+iteration 219 energy 9.456321e+00 norm 1.001820e+00 error 6.561108e-02
+iteration 220 energy 9.489827e+00 norm 1.000172e+00 error 5.210710e-02
+iteration 221 energy 9.491172e+00 norm 9.999922e-01 error 1.185180e-02
+iteration 222 energy 9.488889e+00 norm 1.000081e+00 error 5.894820e-03
+iteration 223 energy 9.490706e+00 norm 1.000056e+00 error 1.461135e-02
+iteration 224 energy 9.486390e+00 norm 9.997967e-01 error 8.360030e-03
+iteration 225 energy 9.491489e+00 norm 1.000059e+00 error 2.030933e-02
+iteration 226 energy 9.290196e+00 norm 1.010504e+00 error 2.403479e-03
+iteration 227 energy 9.491129e+00 norm 9.998308e-01 error 1.215653e-01
+iteration 228 energy 9.373872e+00 norm 1.005843e+00 error 6.402595e-03
+iteration 229 energy 9.490921e+00 norm 1.000103e+00 error 9.423313e-02
+iteration 230 energy 9.491236e+00 norm 1.000027e+00 error 7.263864e-03
+iteration 231 energy 9.491046e+00 norm 1.000000e+00 error 5.247145e-03
+iteration 232 energy 9.490931e+00 norm 1.000009e+00 error 6.616495e-03
+iteration 233 energy 9.490381e+00 norm 1.000197e+00 error 7.267729e-03
+iteration 234 energy 9.490747e+00 norm 1.000159e+00 error 9.728604e-03
+iteration 235 energy 9.488095e+00 norm 1.000493e+00 error 8.131840e-03
+iteration 236 energy 9.489533e+00 norm 1.000183e+00 error 1.651648e-02
+iteration 237 energy 9.491323e+00 norm 1.000730e+00 error 1.276893e-02
+iteration 238 energy 9.490943e+00 norm 1.000223e+00 error 3.087064e-03
+Increasing subspace singular value threshold  -1.247701e+03 1.000000e-12
+Increasing subspace singular value threshold  -1.247701e+03 1.000000e-10
+iteration 239 energy 9.445678e+00 norm 1.002013e+00 error 6.906908e-03
+iteration 240 energy 9.489121e+00 norm 1.000061e+00 error 5.967685e-02
+iteration 241 energy 9.489916e+00 norm 1.000120e+00 error 1.405302e-02
+iteration 242 energy 9.486677e+00 norm 1.000284e+00 error 1.159356e-02
+iteration 243 energy 9.490365e+00 norm 1.000093e+00 error 1.961588e-02
+iteration 244 energy 9.491567e+00 norm 9.999586e-01 error 9.877222e-03
+iteration 245 energy 9.490863e+00 norm 9.999552e-01 error 1.911074e-03
+iteration 246 energy 9.383893e+00 norm 1.005221e+00 error 7.568580e-03
+iteration 247 energy 9.396380e+00 norm 1.008149e+00 error 9.038381e-02
+iteration 248 energy 9.491288e+00 norm 1.000009e+00 error 8.494954e-02
+iteration 249 energy 9.463907e+00 norm 1.001472e+00 error 4.759397e-03
+iteration 250 energy 9.490036e+00 norm 1.000193e+00 error 4.634774e-02
+iteration 251 energy 9.389274e+00 norm 1.006806e+00 error 1.092022e-02
+iteration 252 energy 9.449799e+00 norm 1.000953e+00 error 8.791040e-02
+iteration 253 energy 9.491373e+00 norm 1.000053e+00 error 5.700349e-02
+iteration 254 energy 9.491016e+00 norm 1.000073e+00 error 4.030212e-03
+iteration 255 energy 9.489920e+00 norm 1.000113e+00 error 6.820595e-03
+iteration 256 energy 9.489690e+00 norm 1.000113e+00 error 1.176003e-02
+iteration 257 energy 9.489244e+00 norm 1.000159e+00 error 1.231869e-02
+iteration 258 energy 9.477013e+00 norm 1.000826e+00 error 1.349623e-02
+iteration 259 energy 9.490100e+00 norm 1.000081e+00 error 3.368788e-02
+iteration 260 energy 9.491040e+00 norm 1.000008e+00 error 1.093624e-02
+iteration 261 energy 9.483758e+00 norm 1.000209e+00 error 6.619733e-03
+iteration 262 energy 9.323105e+00 norm 1.007212e+00 error 2.447655e-02
+iteration 263 energy 1.419619e+00 norm 3.070987e+00 error 1.117656e-01
+iteration 264 energy 9.433607e+00 norm 1.003191e+00 error 1.204756e-01
+iteration 265 energy 9.462121e+00 norm 1.001665e+00 error 6.659467e-02
+iteration 266 energy 9.491240e+00 norm 1.000026e+00 error 4.801969e-02
+iteration 267 energy 9.485489e+00 norm 1.000349e+00 error 5.686020e-03
+iteration 268 energy 9.475959e+00 norm 1.000828e+00 error 2.185319e-02
+iteration 269 energy 9.470176e+00 norm 1.001334e+00 error 3.381346e-02
+iteration 270 energy 9.479115e+00 norm 1.000735e+00 error 3.836429e-02
+iteration 271 energy 9.474138e+00 norm 1.000960e+00 error 3.061208e-02
+iteration 272 energy 9.282362e+00 norm 1.011831e+00 error 3.696085e-02
+iteration 273 energy 9.488339e+00 norm 1.000200e+00 error 1.237084e-01
+iteration 274 energy 9.486405e+00 norm 1.000256e+00 error 1.598230e-02
+iteration 275 energy 9.488987e+00 norm 1.000096e+00 error 2.017996e-02
+iteration 276 energy 9.489942e+00 norm 1.000013e+00 error 1.432690e-02
+iteration 277 energy 9.490274e+00 norm 1.000058e+00 error 1.144780e-02
+iteration 278 energy 9.490478e+00 norm 9.998971e-01 error 1.020648e-02
+iteration 279 energy 9.487037e+00 norm 9.994968e-01 error 9.461054e-03
+iteration 280 energy 9.491162e+00 norm 1.000027e+00 error 1.912118e-02
+iteration 281 energy 9.490404e+00 norm 1.000207e+00 error 5.904642e-03
+iteration 282 energy 9.491558e+00 norm 9.999803e-01 error 9.594469e-03
+iteration 283 energy 9.446834e+00 norm 1.002196e+00 error 1.671741e-03
+iteration 284 energy 9.485045e+00 norm 1.000427e+00 error 5.896616e-02
+iteration 285 energy 9.459442e+00 norm 1.002025e+00 error 2.256841e-02
+iteration 286 energy 9.160647e+00 norm 1.018471e+00 error 4.990368e-02
+iteration 287 energy 9.491266e+00 norm 1.000036e+00 error 1.522111e-01
+iteration 288 energy 9.491250e+00 norm 1.000033e+00 error 4.858543e-03
+iteration 289 energy 9.490076e+00 norm 9.999093e-01 error 5.072193e-03
+iteration 290 energy 9.490823e+00 norm 9.998711e-01 error 1.101390e-02
+iteration 291 energy 9.471083e+00 norm 1.000335e+00 error 7.826951e-03
+iteration 292 energy 9.491292e+00 norm 9.999446e-01 error 4.009704e-02
+iteration 293 energy 9.491503e+00 norm 1.000214e+00 error 5.154037e-03
+iteration 294 energy 9.491526e+00 norm 9.999742e-01 error 3.864088e-03
+iteration 295 energy 9.491587e+00 norm 1.000072e+00 error 2.892395e-03
+iteration 296 energy 9.491596e+00 norm 1.000091e+00 error 1.560284e-03
+iteration 297 energy 9.491618e+00 norm 1.000114e+00 error 1.656718e-03
+iteration 298 energy 9.486523e+00 norm 1.000951e+00 error 2.478249e-03
+iteration 299 energy 8.667906e+00 norm 1.038311e+00 error 2.094937e-02
+iteration 300 energy 9.491444e+00 norm 1.000008e+00 error 2.207315e-01
+Potential was shifted 301 times
+Final energy without shift:  9.491444e+00
+iteration 0 energy 1.483830e+01 norm 1.067228e+00 error 3.747432e-01
+iteration 1 energy 9.688097e+00 norm 1.464659e+00 error 4.422826e-01
+iteration 2 energy 1.400809e+01 norm 8.426486e-01 error 3.260140e-01
+iteration 3 energy 1.381113e+01 norm 8.590584e-01 error 2.423590e-01
+iteration 4 energy 1.367700e+01 norm 8.554572e-01 error 1.940189e-01
+iteration 5 energy 1.378167e+01 norm 9.277755e-01 error 2.045002e-01
+iteration 6 energy 1.377285e+01 norm 8.623822e-01 error 2.715159e-01
+iteration 7 energy 1.368565e+01 norm 8.654989e-01 error 3.231135e-01
+iteration 8 energy 1.338917e+01 norm 9.088695e-01 error 3.391552e-01
+iteration 9 energy 1.000784e+01 norm 1.387476e+00 error 3.069972e-01
+iteration 10 energy 1.330411e+01 norm 9.672822e-01 error 3.105520e-01
+iteration 11 energy 1.355960e+01 norm 9.337946e-01 error 1.350775e-01
+iteration 12 energy 6.493119e+00 norm 7.126628e+01 error 2.293145e-01
+iteration 13 energy 1.261068e+01 norm 6.296441e-01 error 1.554546e-01
+iteration 14 energy 1.058050e+01 norm 8.975368e-01 error 1.079732e-01
+iteration 15 energy 1.316222e+01 norm 5.116415e+00 error 2.708595e-01
+iteration 16 energy 1.291651e+01 norm 2.414391e+00 error 3.003272e-01
+iteration 17 energy 1.334176e+01 norm 2.707210e+00 error 2.852483e-01
+iteration 18 energy 1.334941e+01 norm 1.928167e+00 error 2.953566e-01
+iteration 19 energy 1.241349e+01 norm 3.993879e-01 error 2.709362e-01
+iteration 20 energy 1.105150e+01 norm 4.510460e-01 error 3.142852e-01
+iteration 21 energy 1.296744e+01 norm 2.467008e+00 error 2.730007e-01
+iteration 22 energy 1.262331e+01 norm 1.715343e+00 error 1.525457e-01
+iteration 23 energy 1.211990e+01 norm 1.198540e+00 error 1.471664e-01
+iteration 24 energy 1.067142e+01 norm 4.827531e-01 error 1.498288e-01
+iteration 25 energy 1.154497e+01 norm 7.827061e-01 error 1.132394e-01
+iteration 26 energy 1.150213e+01 norm 1.245539e+00 error 1.146403e-01
+iteration 27 energy 1.166932e+01 norm 1.202695e+00 error 1.241891e-01
+iteration 28 energy 1.058085e+01 norm 1.000260e+00 error 1.269823e-01
+iteration 29 energy 1.062265e+01 norm 1.047452e+00 error 9.985984e-02
+iteration 30 energy 1.043666e+01 norm 8.116589e-01 error 1.018788e-01
+iteration 31 energy 1.064302e+01 norm 1.034295e+00 error 6.390821e-02
+iteration 32 energy 1.047439e+01 norm 9.829610e-01 error 6.761185e-02
+iteration 33 energy 1.050881e+01 norm 9.491766e-01 error 1.798754e-02
+iteration 34 energy 1.048754e+01 norm 9.727440e-01 error 1.085740e-02
+iteration 35 energy 1.053878e+01 norm 9.249491e-01 error 3.990102e-03
+iteration 36 energy 1.048636e+01 norm 9.832738e-01 error 2.018444e-02
+iteration 37 energy 1.048626e+01 norm 9.822604e-01 error 3.291328e-03
+iteration 38 energy 1.048404e+01 norm 9.755153e-01 error 3.625971e-03
+iteration 39 energy 1.048362e+01 norm 9.713450e-01 error 4.056891e-03
+iteration 40 energy 1.048038e+01 norm 9.839752e-01 error 7.865994e-03
+iteration 41 energy 1.045405e+01 norm 9.548925e-01 error 1.111191e-02
+iteration 42 energy 1.048386e+01 norm 9.844195e-01 error 3.130442e-02
+iteration 43 energy 1.048190e+01 norm 9.911295e-01 error 4.462442e-03
+iteration 44 energy 1.046973e+01 norm 9.955394e-01 error 8.021520e-03
+iteration 45 energy 1.011442e+01 norm 1.009516e+00 error 2.336503e-02
+iteration 46 energy 1.048311e+01 norm 9.996163e-01 error 1.204012e-01
+iteration 47 energy 1.048308e+01 norm 9.995991e-01 error 3.627392e-03
+iteration 48 energy 1.048304e+01 norm 9.995909e-01 error 3.658911e-03
+iteration 49 energy 1.048135e+01 norm 1.002809e+00 error 3.822148e-03
+Increasing subspace singular value threshold  -1.515503e+02 1.000000e-12
+Increasing subspace singular value threshold  -1.515503e+02 1.000000e-10
+iteration 50 energy 1.048346e+01 norm 9.988376e-01 error 5.885290e-03
+iteration 51 energy 1.048276e+01 norm 1.000184e+00 error 3.896627e-03
+iteration 52 energy 1.048251e+01 norm 1.000156e+00 error 5.683484e-03
+iteration 53 energy 1.048181e+01 norm 1.000359e+00 error 6.879412e-03
+iteration 54 energy 1.048253e+01 norm 1.000017e+00 error 8.366686e-03
+iteration 55 energy 1.048270e+01 norm 9.997008e-01 error 5.947500e-03
+iteration 56 energy 1.028006e+01 norm 1.004332e+00 error 5.452769e-03
+iteration 57 energy 1.048246e+01 norm 1.000291e+00 error 9.643442e-02
+iteration 58 energy 1.048272e+01 norm 1.000236e+00 error 7.333378e-03
+iteration 59 energy 1.048318e+01 norm 1.000118e+00 error 4.656979e-03
+iteration 60 energy 1.048315e+01 norm 1.000078e+00 error 3.774470e-03
+iteration 61 energy 1.048314e+01 norm 1.000074e+00 error 3.871576e-03
+iteration 62 energy 1.048294e+01 norm 1.000108e+00 error 4.356095e-03
+iteration 63 energy 1.047700e+01 norm 1.000576e+00 error 5.861582e-03
+iteration 64 energy 1.048311e+01 norm 1.000116e+00 error 1.303463e-02
+iteration 65 energy 1.048093e+01 norm 1.002356e+00 error 3.757814e-03
+iteration 66 energy 1.047026e+01 norm 1.002133e+00 error 7.883251e-03
+iteration 67 energy 1.048244e+01 norm 9.983604e-01 error 2.357108e-02
+iteration 68 energy 1.048206e+01 norm 9.977901e-01 error 5.865957e-03
+iteration 69 energy 1.048222e+01 norm 1.000346e+00 error 1.034795e-02
+iteration 70 energy 1.047447e+01 norm 1.003393e+00 error 7.463106e-03
+iteration 71 energy 1.048298e+01 norm 1.000464e+00 error 1.962104e-02
+Increasing subspace singular value threshold  -1.918642e+04 1.000000e-12
+Increasing subspace singular value threshold  -1.918642e+04 1.000000e-10
+Forcing full step due to subspace malfunction
+iteration 72 energy 1.048335e+01 norm 9.966136e-01 error 4.202176e-03
+iteration 73 energy 1.047317e+01 norm 1.000357e+00 error 3.783463e-03
+iteration 74 energy 5.121635e+00 norm 3.011034e+00 error 1.809151e-02
+iteration 75 energy 8.488448e+00 norm 1.230240e+00 error 1.053096e-01
+iteration 76 energy 1.047747e+01 norm 1.000422e+00 error 2.029976e-01
+iteration 77 energy 1.048322e+01 norm 1.000089e+00 error 1.645188e-02
+iteration 78 energy 1.048321e+01 norm 1.000049e+00 error 3.408536e-03
+iteration 79 energy 1.048321e+01 norm 1.000049e+00 error 3.390711e-03
+iteration 80 energy 1.048325e+01 norm 1.000051e+00 error 3.510028e-03
+iteration 81 energy 1.048325e+01 norm 1.000014e+00 error 3.412565e-03
+iteration 82 energy 1.048323e+01 norm 1.000004e+00 error 3.414304e-03
+iteration 83 energy 1.048274e+01 norm 1.000237e+00 error 3.465466e-03
+iteration 84 energy 1.048324e+01 norm 1.000026e+00 error 6.367098e-03
+iteration 85 energy 1.048276e+01 norm 9.985586e-01 error 3.369542e-03
+iteration 86 energy 1.047971e+01 norm 9.978556e-01 error 6.681170e-03
+iteration 87 energy 1.038824e+01 norm 1.007619e+00 error 1.401962e-02
+iteration 88 energy 1.047853e+01 norm 9.959199e-01 error 6.514735e-02
+iteration 89 energy 1.045934e+01 norm 1.006485e+00 error 1.754962e-02
+iteration 90 energy 1.048090e+01 norm 9.996181e-01 error 3.379096e-02
+iteration 91 energy 1.048145e+01 norm 1.000248e+00 error 1.112651e-02
+iteration 92 energy 1.046627e+01 norm 1.002335e+00 error 1.041646e-02
+iteration 93 energy 1.048272e+01 norm 1.000235e+00 error 2.887669e-02
+iteration 94 energy 1.048295e+01 norm 1.000172e+00 error 5.686449e-03
+iteration 95 energy 1.048160e+01 norm 1.000154e+00 error 5.168541e-03
+iteration 96 energy 1.047816e+01 norm 1.001197e+00 error 8.730685e-03
+iteration 97 energy 1.048141e+01 norm 1.000543e+00 error 1.607617e-02
+iteration 98 energy 1.048260e+01 norm 1.001249e+00 error 9.279818e-03
+iteration 99 energy 1.047248e+01 norm 1.000525e+00 error 8.029178e-03
+iteration 100 energy 1.048154e+01 norm 9.980994e-01 error 2.397703e-02
+iteration 101 energy 1.025526e+01 norm 1.022713e+00 error 1.113120e-02
+iteration 102 energy 1.048252e+01 norm 9.998752e-01 error 9.795468e-02
+iteration 103 energy 1.048321e+01 norm 1.000014e+00 error 7.033988e-03
+iteration 104 energy 1.048250e+01 norm 9.996525e-01 error 3.612179e-03
+iteration 105 energy 1.048296e+01 norm 9.997856e-01 error 7.598632e-03
+iteration 106 energy 1.048230e+01 norm 9.998485e-01 error 5.104072e-03
+iteration 107 energy 1.047768e+01 norm 1.000552e+00 error 7.778612e-03
+iteration 108 energy 1.048217e+01 norm 9.986927e-01 error 1.719297e-02
+iteration 109 energy 1.047638e+01 norm 1.000255e+00 error 1.045979e-02
+iteration 110 energy 1.047675e+01 norm 1.000016e+00 error 2.243512e-02
+iteration 111 energy 1.048338e+01 norm 9.982962e-01 error 2.095686e-02
+iteration 112 energy 1.048045e+01 norm 9.986670e-01 error 3.852060e-03
+iteration 113 energy 1.047140e+01 norm 1.001412e+00 error 1.713757e-02
+iteration 114 energy 1.047074e+01 norm 9.991377e-01 error 2.682298e-02
+iteration 115 energy 1.018514e+01 norm 1.029958e+00 error 2.660318e-02
+iteration 116 energy 1.046755e+01 norm 1.000650e+00 error 1.161714e-01
+iteration 117 energy 1.048295e+01 norm 1.000037e+00 error 2.913996e-02
+iteration 118 energy 1.048315e+01 norm 9.999945e-01 error 4.354743e-03
+iteration 119 energy 1.048307e+01 norm 1.000007e+00 error 4.162304e-03
+iteration 120 energy 1.048310e+01 norm 9.999961e-01 error 4.397528e-03
+iteration 121 energy 1.048310e+01 norm 9.999973e-01 error 3.846963e-03
+iteration 122 energy 1.048295e+01 norm 1.000239e+00 error 3.848350e-03
+iteration 123 energy 1.048277e+01 norm 1.000490e+00 error 3.893266e-03
+iteration 124 energy 1.047980e+01 norm 1.001600e+00 error 4.299449e-03
+iteration 125 energy 1.048355e+01 norm 9.985040e-01 error 1.538200e-02
+iteration 126 energy 1.048081e+01 norm 9.980506e-01 error 8.808728e-03
+iteration 127 energy 1.047866e+01 norm 9.969763e-01 error 1.608200e-02
+Increasing subspace singular value threshold  -5.317605e+01 1.000000e-12
+Increasing subspace singular value threshold  -5.317605e+01 1.000000e-10
+iteration 128 energy 1.042228e+01 norm 1.004108e+00 error 2.227236e-02
+Increasing subspace singular value threshold  6.808031e-01 1.000000e-12
+Increasing subspace singular value threshold  6.808031e-01 1.000000e-10
+Forcing full step due to subspace malfunction
+iteration 129 energy 1.045669e+01 norm 9.939036e-01 error 6.167220e-02
+iteration 130 energy 1.047096e+01 norm 1.001324e+00 error 4.571241e-02
+iteration 131 energy 1.047872e+01 norm 9.996500e-01 error 2.422628e-02
+iteration 132 energy 1.047293e+01 norm 9.998750e-01 error 2.053256e-02
+iteration 133 energy 1.041323e+01 norm 1.005436e+00 error 2.853882e-02
+iteration 134 energy 1.047554e+01 norm 9.998959e-01 error 6.251156e-02
+iteration 135 energy 1.047678e+01 norm 1.000047e+00 error 2.244133e-02
+iteration 136 energy 1.047844e+01 norm 1.002912e+00 error 1.972136e-02
+iteration 137 energy 1.048087e+01 norm 1.000723e+00 error 1.595216e-02
+iteration 138 energy 1.048326e+01 norm 9.988407e-01 error 1.208742e-02
+iteration 139 energy 1.048091e+01 norm 9.978962e-01 error 5.524303e-03
+iteration 140 energy 1.046649e+01 norm 9.981631e-01 error 1.271490e-02
+iteration 141 energy 1.047744e+01 norm 9.985466e-01 error 3.517645e-02
+iteration 142 energy 1.047768e+01 norm 9.978148e-01 error 1.925504e-02
+iteration 143 energy 1.047131e+01 norm 9.980897e-01 error 2.014934e-02
+iteration 144 energy 1.047211e+01 norm 1.000500e+00 error 3.265788e-02
+iteration 145 energy 1.048016e+01 norm 1.000074e+00 error 2.401227e-02
+iteration 146 energy 4.933894e+00 norm 1.766949e+00 error 1.223075e-02
+iteration 147 energy 1.048205e+01 norm 1.000468e+00 error 2.347473e-01
+iteration 148 energy 1.047797e+01 norm 1.001458e+00 error 1.020431e-02
+iteration 149 energy 1.047865e+01 norm 1.000703e+00 error 1.882748e-02
+iteration 150 energy 1.048249e+01 norm 1.000189e+00 error 1.588526e-02
+iteration 151 energy 1.047861e+01 norm 1.000905e+00 error 9.048400e-03
+iteration 152 energy 1.048181e+01 norm 1.000864e+00 error 1.738796e-02
+iteration 153 energy 1.036380e+01 norm 1.003515e+00 error 9.157406e-03
+iteration 154 energy 1.047421e+01 norm 1.001772e+00 error 9.991856e-02
+iteration 155 energy 1.048157e+01 norm 9.980800e-01 error 2.008252e-02
+iteration 156 energy 1.048140e+01 norm 1.000351e+00 error 1.265394e-02
+iteration 157 energy 1.046714e+01 norm 9.983714e-01 error 9.899408e-03
+iteration 158 energy 1.048005e+01 norm 9.991137e-01 error 3.880286e-02
+iteration 159 energy 1.047704e+01 norm 1.001816e+00 error 1.677182e-02
+iteration 160 energy 1.048066e+01 norm 1.000538e+00 error 1.740733e-02
+iteration 161 energy 1.047537e+01 norm 1.001081e+00 error 1.087981e-02
+iteration 162 energy 1.048251e+01 norm 9.998407e-01 error 2.107290e-02
+iteration 163 energy 1.045776e+01 norm 1.000485e+00 error 7.579200e-03
+iteration 164 energy 1.046666e+01 norm 1.000996e+00 error 4.769843e-02
+iteration 165 energy 1.046318e+01 norm 1.003196e+00 error 3.398164e-02
+iteration 166 energy 1.048146e+01 norm 1.000524e+00 error 4.055765e-02
+iteration 167 energy 1.048047e+01 norm 9.994355e-01 error 9.919018e-03
+iteration 168 energy 1.038161e+01 norm 1.010778e+00 error 1.489395e-02
+iteration 169 energy 1.047055e+01 norm 1.001870e+00 error 9.457490e-02
+iteration 170 energy 1.048151e+01 norm 1.000022e+00 error 2.918088e-02
+iteration 171 energy 1.045663e+01 norm 1.005257e+00 error 9.929868e-03
+Increasing subspace singular value threshold  9.050504e+01 1.000000e-12
+Increasing subspace singular value threshold  9.050504e+01 1.000000e-10
+Forcing full step due to subspace malfunction
+iteration 172 energy 1.047537e+01 norm 9.955826e-01 error 3.500315e-02
+iteration 173 energy 9.953065e+00 norm 1.017009e+00 error 1.973864e-02
+iteration 174 energy 1.048289e+01 norm 1.000152e+00 error 1.602910e-01
+iteration 175 energy 1.048314e+01 norm 1.000137e+00 error 5.717850e-03
+iteration 176 energy 1.047272e+01 norm 1.000939e+00 error 4.549256e-03
+iteration 177 energy 1.048282e+01 norm 1.000117e+00 error 2.980416e-02
+iteration 178 energy 1.047098e+01 norm 1.000700e+00 error 5.346337e-03
+iteration 179 energy 1.048308e+01 norm 1.000145e+00 error 2.962613e-02
+iteration 180 energy 1.047863e+01 norm 1.000464e+00 error 5.123611e-03
+iteration 181 energy 1.048313e+01 norm 1.000181e+00 error 2.039177e-02
+iteration 182 energy 1.048043e+01 norm 1.000340e+00 error 4.458340e-03
+iteration 183 energy 1.048129e+01 norm 1.000226e+00 error 1.243148e-02
+iteration 184 energy 1.047992e+01 norm 9.988651e-01 error 1.037224e-02
+iteration 185 energy 1.047815e+01 norm 9.927430e-01 error 1.469969e-02
+iteration 186 energy 1.043746e+01 norm 1.000613e+00 error 2.519012e-02
+iteration 187 energy 1.048042e+01 norm 9.999089e-01 error 5.964237e-02
+iteration 188 energy 1.047824e+01 norm 1.000039e+00 error 1.587096e-02
+iteration 189 energy 1.047612e+01 norm 1.000376e+00 error 1.818851e-02
+iteration 190 energy 1.048301e+01 norm 9.998692e-01 error 2.409793e-02
+iteration 191 energy 1.048301e+01 norm 9.998603e-01 error 4.604292e-03
+iteration 192 energy 1.046996e+01 norm 1.002102e+00 error 4.822378e-03
+iteration 193 energy 1.048019e+01 norm 9.998646e-01 error 3.452540e-02
+iteration 194 energy 1.048273e+01 norm 9.997914e-01 error 1.269537e-02
+iteration 195 energy 1.047566e+01 norm 1.000879e+00 error 7.645864e-03
+iteration 196 energy 1.047642e+01 norm 9.987117e-01 error 2.502091e-02
+iteration 197 energy 1.033053e+01 norm 1.016050e+00 error 2.501243e-02
+iteration 198 energy 1.048300e+01 norm 1.000217e+00 error 1.061571e-01
+iteration 199 energy 1.046837e+01 norm 1.000669e+00 error 4.138146e-03
+iteration 200 energy 1.048141e+01 norm 1.000192e+00 error 3.248839e-02
+iteration 201 energy 1.048005e+01 norm 1.000339e+00 error 1.193173e-02
+iteration 202 energy 1.048000e+01 norm 1.000586e+00 error 1.497256e-02
+iteration 203 energy 1.048072e+01 norm 1.000473e+00 error 1.680863e-02
+iteration 204 energy 1.048248e+01 norm 1.000065e+00 error 1.496424e-02
+iteration 205 energy 1.048241e+01 norm 1.000123e+00 error 7.236714e-03
+iteration 206 energy 1.048249e+01 norm 1.000108e+00 error 6.862936e-03
+iteration 207 energy 1.048145e+01 norm 1.000519e+00 error 6.699464e-03
+iteration 208 energy 1.048034e+01 norm 1.001138e+00 error 9.566917e-03
+iteration 209 energy 1.048155e+01 norm 1.001140e+00 error 1.241671e-02
+iteration 210 energy 1.048204e+01 norm 9.981805e-01 error 9.695420e-03
+iteration 211 energy 1.047693e+01 norm 1.001462e+00 error 1.032770e-02
+iteration 212 energy 1.047797e+01 norm 9.975671e-01 error 1.746982e-02
+iteration 213 energy 1.045754e+01 norm 1.001005e+00 error 2.195446e-02
+iteration 214 energy 1.047089e+01 norm 1.000264e+00 error 4.064351e-02
+iteration 215 energy 1.047527e+01 norm 1.000343e+00 error 2.828772e-02
+iteration 216 energy 1.046846e+01 norm 1.000409e+00 error 2.436649e-02
+iteration 217 energy 9.888010e+00 norm 1.045189e+00 error 3.195140e-02
+iteration 218 energy 1.047917e+01 norm 1.000610e+00 error 1.831606e-01
+iteration 219 energy 1.048139e+01 norm 9.995358e-01 error 1.539735e-02
+iteration 220 energy 1.046796e+01 norm 1.000627e+00 error 1.125031e-02
+iteration 221 energy 1.045905e+01 norm 1.002014e+00 error 3.072765e-02
+iteration 222 energy 1.041213e+01 norm 9.916874e-01 error 3.884872e-02
+iteration 223 energy 1.048347e+01 norm 9.994441e-01 error 8.247526e-02
+iteration 224 energy 1.048309e+01 norm 9.999434e-01 error 3.597811e-03
+iteration 225 energy 1.048174e+01 norm 9.998729e-01 error 4.580473e-03
+iteration 226 energy 1.048205e+01 norm 9.999938e-01 error 1.165156e-02
+iteration 227 energy 1.048154e+01 norm 1.000075e+00 error 1.038578e-02
+iteration 228 energy 1.047983e+01 norm 1.000324e+00 error 1.160457e-02
+iteration 229 energy 1.029556e+01 norm 1.013230e+00 error 1.271633e-02
+iteration 230 energy 1.048293e+01 norm 1.000028e+00 error 1.101435e-01
+iteration 231 energy 5.644236e+00 norm 2.121057e+00 error 5.333609e-03
+iteration 232 energy 1.047965e+01 norm 1.000570e+00 error 1.675180e-01
+iteration 233 energy 1.048149e+01 norm 1.001041e+00 error 1.885070e-02
+iteration 234 energy 1.048163e+01 norm 1.001062e+00 error 1.176451e-02
+iteration 235 energy 1.048201e+01 norm 1.000287e+00 error 1.090940e-02
+iteration 236 energy 1.048089e+01 norm 1.000408e+00 error 1.082154e-02
+iteration 237 energy 1.034269e+01 norm 1.002497e+00 error 1.535978e-02
+iteration 238 energy 1.048240e+01 norm 9.997295e-01 error 1.051030e-01
+iteration 239 energy 1.048287e+01 norm 9.999360e-01 error 8.600291e-03
+iteration 240 energy 1.048290e+01 norm 9.994878e-01 error 6.954535e-03
+iteration 241 energy 1.048274e+01 norm 9.994940e-01 error 7.860666e-03
+iteration 242 energy 1.048290e+01 norm 9.991902e-01 error 7.864194e-03
+iteration 243 energy 1.048368e+01 norm 9.978597e-01 error 6.451904e-03
+iteration 244 energy 1.048302e+01 norm 9.986706e-01 error 3.816436e-03
+iteration 245 energy 1.047891e+01 norm 9.987986e-01 error 6.563665e-03
+iteration 246 energy 1.047173e+01 norm 9.970281e-01 error 1.889023e-02
+iteration 247 energy 1.042663e+01 norm 1.008555e+00 error 3.314593e-02
+iteration 248 energy 1.047701e+01 norm 1.000663e+00 error 6.913502e-02
+iteration 249 energy 1.037302e+01 norm 1.007220e+00 error 2.163741e-02
+iteration 250 energy 1.048287e+01 norm 1.000035e+00 error 9.713605e-02
+iteration 251 energy 1.048294e+01 norm 1.000033e+00 error 5.580526e-03
+iteration 252 energy 1.048054e+01 norm 9.999466e-01 error 5.228732e-03
+iteration 253 energy 1.048230e+01 norm 1.000204e+00 error 1.510356e-02
+iteration 254 energy 1.048201e+01 norm 1.000179e+00 error 7.738066e-03
+iteration 255 energy 1.048173e+01 norm 1.000480e+00 error 8.952466e-03
+iteration 256 energy 1.046787e+01 norm 1.001580e+00 error 1.002540e-02
+iteration 257 energy 1.048258e+01 norm 9.984661e-01 error 3.663292e-02
+iteration 258 energy 1.048238e+01 norm 1.000144e+00 error 1.040094e-02
+iteration 259 energy 1.048150e+01 norm 9.976781e-01 error 7.690267e-03
+iteration 260 energy 1.047647e+01 norm 9.977991e-01 error 1.502962e-02
+iteration 261 energy 1.047009e+01 norm 9.981288e-01 error 2.538401e-02
+iteration 262 energy 1.046526e+01 norm 9.982416e-01 error 3.482112e-02
+iteration 263 energy 1.048275e+01 norm 9.986572e-01 error 4.060994e-02
+iteration 264 energy 1.047823e+01 norm 9.984900e-01 error 7.927786e-03
+iteration 265 energy 1.048291e+01 norm 9.995831e-01 error 1.947347e-02
+iteration 266 energy 1.048319e+01 norm 9.997854e-01 error 6.671724e-03
+iteration 267 energy 1.048276e+01 norm 9.996692e-01 error 3.920887e-03
+iteration 268 energy 1.045590e+01 norm 9.996502e-01 error 7.032020e-03
+iteration 269 energy 1.048317e+01 norm 9.979949e-01 error 4.614567e-02
+iteration 270 energy 1.046991e+01 norm 9.998167e-01 error 8.268019e-03
+iteration 271 energy 1.042331e+01 norm 9.992003e-01 error 3.465045e-02
+iteration 272 energy 1.048023e+01 norm 1.000314e+00 error 7.045650e-02
+iteration 273 energy 1.047968e+01 norm 1.000746e+00 error 1.464817e-02
+iteration 274 energy 1.047631e+01 norm 1.000604e+00 error 1.763806e-02
+iteration 275 energy 1.046948e+01 norm 1.001088e+00 error 2.346720e-02
+iteration 276 energy 1.048253e+01 norm 1.000042e+00 error 3.373076e-02
+iteration 277 energy 1.048129e+01 norm 1.000071e+00 error 6.527731e-03
+iteration 278 energy 1.048255e+01 norm 1.000038e+00 error 1.168854e-02
+iteration 279 energy 1.048298e+01 norm 1.000141e+00 error 6.739108e-03
+iteration 280 energy 1.046511e+01 norm 1.002760e+00 error 4.870613e-03
+iteration 281 energy 1.048235e+01 norm 1.000044e+00 error 3.936686e-02
+iteration 282 energy 1.048366e+01 norm 9.966565e-01 error 7.868571e-03
+iteration 283 energy 1.044655e+01 norm 1.002357e+00 error 7.183484e-03
+iteration 284 energy 1.033478e+01 norm 1.001149e+00 error 5.214707e-02
+iteration 285 energy 1.048035e+01 norm 1.000873e+00 error 1.113743e-01
+iteration 286 energy 1.048286e+01 norm 1.000050e+00 error 1.558713e-02
+iteration 287 energy 1.048304e+01 norm 1.000061e+00 error 5.577640e-03
+iteration 288 energy 1.048210e+01 norm 1.000197e+00 error 4.344557e-03
+iteration 289 energy 1.048112e+01 norm 1.000435e+00 error 9.854988e-03
+iteration 290 energy 1.048030e+01 norm 1.000517e+00 error 1.367905e-02
+iteration 291 energy 1.048178e+01 norm 1.000394e+00 error 1.606799e-02
+iteration 292 energy 1.046963e+01 norm 1.000909e+00 error 1.038335e-02
+iteration 293 energy 1.046603e+01 norm 1.001229e+00 error 2.966094e-02
+iteration 294 energy 1.046895e+01 norm 1.001056e+00 error 3.367671e-02
+iteration 295 energy 8.820159e+00 norm 1.129233e+00 error 3.321363e-02
+iteration 296 energy 1.035025e+01 norm 1.008556e+00 error 2.518997e-01
+iteration 297 energy 9.421383e+00 norm 1.077786e+00 error 9.600226e-02
+iteration 298 energy 1.040376e+01 norm 1.004975e+00 error 2.517652e-01
+iteration 299 energy 1.048309e+01 norm 1.000048e+00 error 7.626567e-02
+iteration 300 energy 1.048323e+01 norm 1.000027e+00 error 4.217537e-03
+Potential was shifted 301 times
+Final energy without shift:  1.048323e+01
+iteration 0 energy 1.502625e+01 norm 1.159077e+00 error 5.885140e-01
+iteration 1 energy 1.054451e+01 norm 1.187954e+00 error 6.799509e-01
+iteration 2 energy 1.579228e+01 norm 9.253180e-01 error 4.085411e-01
+iteration 3 energy 1.406046e+01 norm 1.037981e+00 error 3.774051e-01
+iteration 4 energy 1.005994e+01 norm 1.780106e+00 error 4.768959e-01
+iteration 5 energy 1.150264e+01 norm 1.591209e+00 error 3.933293e-01
+iteration 6 energy 1.393272e+01 norm 1.395567e+00 error 5.216130e-01
+iteration 7 energy 1.279410e+01 norm 3.383233e+00 error 4.394689e-01
+iteration 8 energy 1.710816e+01 norm 3.958538e+00 error 5.320962e-01
+iteration 9 energy 1.290547e+01 norm 4.389372e+00 error 1.002701e+00
+iteration 10 energy 1.466171e+01 norm 1.778848e-01 error 8.319177e-01
+iteration 11 energy 4.103334e+00 norm 1.150600e+02 error 1.027609e+00
+iteration 12 energy 1.189072e+01 norm 3.750644e-01 error 2.222421e-01
+iteration 13 energy 6.744112e+00 norm 9.152420e-02 error 6.235857e-01
+iteration 14 energy 2.015669e+00 norm 4.344434e-01 error 3.745526e-01
+iteration 15 energy 4.311109e+00 norm 7.186597e-01 error 1.159871e-01
+iteration 16 energy 8.893312e+00 norm 3.300821e-01 error 2.601605e-01
+iteration 17 energy 1.330377e+01 norm 2.814192e+00 error 4.512382e-01
+iteration 18 energy 3.210425e+00 norm 1.236552e+00 error 1.623763e-01
+iteration 19 energy 4.664156e+00 norm 3.297535e-01 error 2.083518e-01
+iteration 20 energy 1.322915e+01 norm 3.152091e-01 error 2.924358e-01
+iteration 21 energy 1.320871e+01 norm 4.826273e-01 error 1.179247e-01
+iteration 22 energy 1.318148e+01 norm 3.953401e-01 error 1.499682e-01
+iteration 23 energy 1.312638e+01 norm 5.350640e-01 error 1.138928e-01
+iteration 24 energy 1.234453e+01 norm 2.794836e-01 error 2.624840e-01
+iteration 25 energy 1.330503e+01 norm 2.864758e-01 error 2.616602e-01
+iteration 26 energy 1.033406e+01 norm 3.362197e-01 error 1.114043e-01
+iteration 27 energy 1.202327e+01 norm 4.887062e+00 error 2.960115e-01
+iteration 28 energy 1.128290e+01 norm 6.807626e-01 error 4.291598e-01
+iteration 29 energy 1.276114e+01 norm 1.060853e+00 error 4.501039e-01
+iteration 30 energy 1.107819e+01 norm 4.072364e-01 error 3.539155e-01
+iteration 31 energy 9.889809e+00 norm 2.836059e-01 error 4.711004e-01
+iteration 32 energy 8.135669e+00 norm 1.542026e-01 error 4.557514e-01
+iteration 33 energy 9.358593e+00 norm 1.264919e-01 error 3.580993e-01
+iteration 34 energy 5.992293e+00 norm 1.399152e-01 error 4.175816e-01
+iteration 35 energy 1.203286e+01 norm 2.385050e-01 error 3.158817e-01
+iteration 36 energy 5.150248e+00 norm 4.115609e-01 error 3.978042e-01
+iteration 37 energy 6.767925e+00 norm 4.931453e-01 error 2.748768e-01
+iteration 38 energy 8.632739e+00 norm 1.333395e-01 error 3.701754e-01
+iteration 39 energy 1.110486e+01 norm 8.111146e-02 error 3.777412e-01
+iteration 40 energy 9.638429e+00 norm 7.465009e+00 error 2.662914e-01
+iteration 41 energy 7.557640e+00 norm 3.593914e+00 error 4.022814e-01
+iteration 42 energy 9.861467e+00 norm 2.188355e-01 error 3.537812e-01
+iteration 43 energy 1.162270e+01 norm 1.007299e+00 error 3.669741e-01
+iteration 44 energy 1.039332e+01 norm 6.359730e-01 error 1.944262e-01
+iteration 45 energy 1.126963e+01 norm 1.621500e+00 error 2.993517e-01
+iteration 46 energy 9.636927e+00 norm 9.932657e-02 error 1.781312e-01
+iteration 47 energy 1.127348e+01 norm 3.167478e-01 error 3.095078e-01
+iteration 48 energy 1.128824e+01 norm 7.647743e-01 error 2.078550e-01
+iteration 49 energy 5.785090e+00 norm 6.481561e-02 error 1.758569e-01
+iteration 50 energy 1.168668e+01 norm 5.903640e-01 error 3.189611e-01
+iteration 51 energy 1.067916e+01 norm 5.885830e-01 error 1.460325e-01
+iteration 52 energy 7.437289e+00 norm 5.398943e-02 error 3.645038e-01
+iteration 53 energy 1.123772e+01 norm 2.024989e-01 error 3.200289e-01
+iteration 54 energy 1.115347e+01 norm 4.923403e-01 error 1.722329e-01
+iteration 55 energy 1.137750e+01 norm 2.923733e-01 error 1.696527e-01
+iteration 56 energy 1.136290e+01 norm 4.232702e-01 error 1.259645e-01
+iteration 57 energy 8.853925e+00 norm 9.625048e-02 error 1.110985e-01
+iteration 58 energy 1.043647e+01 norm 2.611662e-01 error 3.132229e-01
+iteration 59 energy 1.093591e+01 norm 7.626685e-01 error 2.978968e-01
+iteration 60 energy 1.138796e+01 norm 9.985001e-01 error 2.399121e-01
+iteration 61 energy 1.125789e+01 norm 1.053026e+00 error 1.048723e-01
+iteration 62 energy 1.113364e+01 norm 1.297078e+00 error 1.614844e-01
+iteration 63 energy 1.123100e+01 norm 1.183713e+00 error 1.673409e-01
+iteration 64 energy 1.101088e+01 norm 9.709860e-01 error 1.463421e-01
+iteration 65 energy 1.129377e+01 norm 9.830236e-01 error 2.136538e-01
+iteration 66 energy 1.130933e+01 norm 9.925200e-01 error 1.502711e-01
+iteration 67 energy 1.138053e+01 norm 1.002562e+00 error 1.429085e-01
+iteration 68 energy 1.136725e+01 norm 1.009885e+00 error 1.086184e-01
+iteration 69 energy 1.143656e+01 norm 1.000314e+00 error 1.136712e-01
+iteration 70 energy 1.146098e+01 norm 1.002041e+00 error 7.031241e-02
+iteration 71 energy 1.142455e+01 norm 1.003793e+00 error 4.464271e-02
+iteration 72 energy 1.138440e+01 norm 1.003876e+00 error 7.910051e-02
+iteration 73 energy 1.133037e+01 norm 1.006230e+00 error 1.071956e-01
+iteration 74 energy 1.144695e+01 norm 1.003098e+00 error 1.316338e-01
+iteration 75 energy 9.626344e+00 norm 1.117476e+00 error 6.334347e-02
+iteration 76 energy 1.138517e+01 norm 1.004786e+00 error 3.397542e-01
+iteration 77 energy 1.137455e+01 norm 1.007259e+00 error 1.054260e-01
+iteration 78 energy 1.147370e+01 norm 1.002071e+00 error 1.114407e-01
+iteration 79 energy 1.133072e+01 norm 9.813593e-01 error 2.382884e-02
+iteration 80 energy 1.147524e+01 norm 9.989738e-01 error 1.310387e-01
+iteration 81 energy 1.144713e+01 norm 1.001692e+00 error 1.839234e-02
+iteration 82 energy 1.146293e+01 norm 1.001274e+00 error 6.164286e-02
+iteration 83 energy 1.146097e+01 norm 1.000970e+00 error 4.122259e-02
+iteration 84 energy 1.146440e+01 norm 1.000421e+00 error 4.699063e-02
+iteration 85 energy 1.147210e+01 norm 1.000110e+00 error 3.721275e-02
+iteration 86 energy 1.147695e+01 norm 1.000260e+00 error 2.599394e-02
+iteration 87 energy 1.147685e+01 norm 9.999035e-01 error 1.392491e-02
+iteration 88 energy 1.141108e+01 norm 1.003512e+00 error 1.445473e-02
+iteration 89 energy 1.146613e+01 norm 1.000578e+00 error 9.065463e-02
+iteration 90 energy 1.145635e+01 norm 1.001463e+00 error 3.925848e-02
+iteration 91 energy 1.147815e+01 norm 1.000023e+00 error 5.118235e-02
+iteration 92 energy 5.887976e+00 norm 1.537760e+00 error 8.798142e-03
+iteration 93 energy 1.147902e+01 norm 1.000050e+00 error 2.929400e-01
+iteration 94 energy 1.147539e+01 norm 1.000058e+00 error 1.107838e-02
+iteration 95 energy 1.028149e+01 norm 1.090242e+00 error 2.442145e-02
+iteration 96 energy 1.145730e+01 norm 1.001278e+00 error 3.036835e-01
+iteration 97 energy 1.147913e+01 norm 9.999852e-01 error 5.121683e-02
+iteration 98 energy 1.147911e+01 norm 1.000024e+00 error 7.326825e-03
+iteration 99 energy 1.147906e+01 norm 1.000046e+00 error 7.626604e-03
+iteration 100 energy 1.147655e+01 norm 1.000109e+00 error 7.550157e-03
+iteration 101 energy 1.147773e+01 norm 1.000046e+00 error 1.905036e-02
+iteration 102 energy 1.147450e+01 norm 1.000408e+00 error 1.433043e-02
+iteration 103 energy 1.140513e+01 norm 1.003334e+00 error 2.519796e-02
+iteration 104 energy 1.146809e+01 norm 1.001005e+00 error 9.391235e-02
+iteration 105 energy 1.147750e+01 norm 1.000618e+00 error 3.587399e-02
+iteration 106 energy 1.147226e+01 norm 9.973356e-01 error 1.190723e-02
+iteration 107 energy 1.147769e+01 norm 1.000860e+00 error 3.201718e-02
+iteration 108 energy 1.147638e+01 norm 1.000302e+00 error 8.804726e-03
+iteration 109 energy 1.146736e+01 norm 1.001006e+00 error 1.674932e-02
+iteration 110 energy 1.147568e+01 norm 1.000944e+00 error 3.712382e-02
+iteration 111 energy 1.147490e+01 norm 1.000389e+00 error 1.834570e-02
+iteration 112 energy 1.146787e+01 norm 9.999974e-01 error 2.163586e-02
+iteration 113 energy 1.147066e+01 norm 9.983474e-01 error 3.711200e-02
+iteration 114 energy 1.107916e+01 norm 1.017518e+00 error 3.279061e-02
+iteration 115 energy 1.147838e+01 norm 1.000128e+00 error 2.088579e-01
+iteration 116 energy 1.144198e+01 norm 1.002095e+00 error 7.615391e-03
+iteration 117 energy 1.146579e+01 norm 1.000710e+00 error 6.712421e-02
+iteration 118 energy 1.147303e+01 norm 1.000127e+00 error 3.995259e-02
+iteration 119 energy 1.146388e+01 norm 1.000420e+00 error 2.731838e-02
+iteration 120 energy 1.147203e+01 norm 1.002704e+00 error 4.347180e-02
+iteration 121 energy 1.147750e+01 norm 1.000175e+00 error 2.765121e-02
+iteration 122 energy 1.147772e+01 norm 1.000166e+00 error 1.317020e-02
+iteration 123 energy 1.147776e+01 norm 1.000164e+00 error 1.205203e-02
+iteration 124 energy 1.147793e+01 norm 1.000075e+00 error 1.126021e-02
+iteration 125 energy 1.147649e+01 norm 1.000396e+00 error 1.039460e-02
+iteration 126 energy 1.146240e+01 norm 9.988023e-01 error 1.611174e-02
+iteration 127 energy 1.135898e+01 norm 1.013399e+00 error 4.615571e-02
+iteration 128 energy 1.147785e+01 norm 1.000342e+00 error 1.169386e-01
+iteration 129 energy 1.147741e+01 norm 1.000286e+00 error 9.007451e-03
+iteration 130 energy 1.147613e+01 norm 1.000645e+00 error 1.225378e-02
+iteration 131 energy 1.147768e+01 norm 1.000391e+00 error 1.652671e-02
+iteration 132 energy 1.147750e+01 norm 1.000345e+00 error 1.027777e-02
+iteration 133 energy 1.147624e+01 norm 1.000753e+00 error 1.155785e-02
+iteration 134 energy 1.146667e+01 norm 1.001341e+00 error 1.644688e-02
+iteration 135 energy 1.147021e+01 norm 1.001044e+00 error 3.942480e-02
+iteration 136 energy 1.146950e+01 norm 1.001357e+00 error 3.136340e-02
+iteration 137 energy 1.087757e+01 norm 9.981574e-01 error 3.410121e-02
+iteration 138 energy 1.140940e+01 norm 1.005161e+00 error 2.538428e-01
+iteration 139 energy 1.139985e+01 norm 1.003037e+00 error 9.102580e-02
+iteration 140 energy 1.142576e+01 norm 1.002622e+00 error 9.657711e-02
+iteration 141 energy 1.141361e+01 norm 1.003193e+00 error 7.873661e-02
+iteration 142 energy 1.147706e+01 norm 9.999863e-01 error 8.823691e-02
+iteration 143 energy 1.147639e+01 norm 1.000021e+00 error 1.351506e-02
+iteration 144 energy 1.147634e+01 norm 9.999871e-01 error 1.623500e-02
+iteration 145 energy 1.146386e+01 norm 1.000659e+00 error 1.704602e-02
+iteration 146 energy 1.147700e+01 norm 1.000027e+00 error 4.244088e-02
+iteration 147 energy 1.147641e+01 norm 1.000047e+00 error 1.432596e-02
+iteration 148 energy 1.147771e+01 norm 1.000728e+00 error 1.676377e-02
+iteration 149 energy 1.147119e+01 norm 1.000148e+00 error 8.714217e-03
+iteration 150 energy 1.147309e+01 norm 1.000271e+00 error 3.083005e-02
+iteration 151 energy 1.025869e+01 norm 1.348820e+00 error 2.653116e-02
+iteration 152 energy 1.141812e+01 norm 1.003932e+00 error 2.955913e-01
+iteration 153 energy 1.071739e+01 norm 1.045654e+00 error 8.457253e-02
+iteration 154 energy 9.903510e+00 norm 1.100326e+00 error 2.634242e-01
+iteration 155 energy 1.142778e+01 norm 1.002303e+00 error 3.261410e-01
+iteration 156 energy 1.135290e+01 norm 1.007575e+00 error 7.801175e-02
+iteration 157 energy 1.147685e+01 norm 1.000038e+00 error 1.203084e-01
+iteration 158 energy 1.147205e+01 norm 1.000360e+00 error 1.513930e-02
+iteration 159 energy 1.147594e+01 norm 1.000280e+00 error 2.780898e-02
+iteration 160 energy 1.147681e+01 norm 1.000268e+00 error 1.883866e-02
+iteration 161 energy 1.147715e+01 norm 1.000252e+00 error 1.607876e-02
+iteration 162 energy 1.146853e+01 norm 1.000506e+00 error 1.461440e-02
+iteration 163 energy 1.147699e+01 norm 1.000000e+00 error 3.623980e-02
+iteration 164 energy 1.142755e+01 norm 1.002814e+00 error 1.669766e-02
+iteration 165 energy 1.147526e+01 norm 9.997241e-01 error 7.929988e-02
+iteration 166 energy 1.147436e+01 norm 9.979116e-01 error 2.144277e-02
+iteration 167 energy 1.105029e+01 norm 1.022506e+00 error 2.641470e-02
+iteration 168 energy 1.144328e+01 norm 1.001137e+00 error 2.101772e-01
+iteration 169 energy 1.147644e+01 norm 1.000426e+00 error 6.530621e-02
+iteration 170 energy 1.146753e+01 norm 9.996194e-01 error 1.573318e-02
+iteration 171 energy 1.147632e+01 norm 1.000697e+00 error 3.973245e-02
+iteration 172 energy 1.146934e+01 norm 9.981947e-01 error 1.603946e-02
+iteration 173 energy 1.144536e+01 norm 9.967759e-01 error 3.613985e-02
+iteration 174 energy 1.147701e+01 norm 1.000059e+00 error 6.535182e-02
+iteration 175 energy 1.147844e+01 norm 1.000019e+00 error 1.469982e-02
+iteration 176 energy 1.147842e+01 norm 1.000013e+00 error 7.461003e-03
+iteration 177 energy 1.147574e+01 norm 9.996508e-01 error 7.635990e-03
+iteration 178 energy 1.145243e+01 norm 1.001446e+00 error 2.041917e-02
+iteration 179 energy 1.138530e+01 norm 1.004696e+00 error 5.418197e-02
+iteration 180 energy 1.145385e+01 norm 1.001015e+00 error 1.000657e-01
+iteration 181 energy 1.146114e+01 norm 1.001045e+00 error 5.293412e-02
+iteration 182 energy 1.144243e+01 norm 1.002399e+00 error 4.591454e-02
+iteration 183 energy 1.143176e+01 norm 1.002945e+00 error 6.565124e-02
+iteration 184 energy 1.143786e+01 norm 1.002900e+00 error 7.380647e-02
+iteration 185 energy 1.136824e+01 norm 1.001557e+00 error 6.969090e-02
+iteration 186 energy 1.135832e+01 norm 1.007156e+00 error 1.124115e-01
+iteration 187 energy 1.124055e+01 norm 1.014152e+00 error 1.162116e-01
+iteration 188 energy 9.742176e+00 norm 1.104612e+00 error 1.598999e-01
+iteration 189 energy 1.146820e+01 norm 1.000787e+00 error 3.263203e-01
+iteration 190 energy 1.147851e+01 norm 1.000176e+00 error 3.676360e-02
+iteration 191 energy 1.147473e+01 norm 1.000379e+00 error 8.010681e-03
+iteration 192 energy 1.094722e+01 norm 1.030072e+00 error 2.331142e-02
+iteration 193 energy 1.147632e+01 norm 1.000327e+00 error 2.294007e-01
+iteration 194 energy 1.147849e+01 norm 1.000194e+00 error 1.854129e-02
+iteration 195 energy 1.147785e+01 norm 1.000303e+00 error 8.553146e-03
+iteration 196 energy 1.147747e+01 norm 1.000456e+00 error 1.180041e-02
+iteration 197 energy 1.147824e+01 norm 1.000030e+00 error 1.251439e-02
+iteration 198 energy 1.147549e+01 norm 1.000342e+00 error 1.073429e-02
+iteration 199 energy 1.147667e+01 norm 1.000730e+00 error 2.005663e-02
+iteration 200 energy 1.078087e+01 norm 1.100531e+00 error 1.555137e-02
+iteration 201 energy 1.147559e+01 norm 1.000185e+00 error 2.172628e-01
+iteration 202 energy 1.147609e+01 norm 1.000209e+00 error 1.982010e-02
+iteration 203 energy 1.142773e+01 norm 1.002891e+00 error 1.799837e-02
+iteration 204 energy 9.448150e+00 norm 1.126054e+00 error 7.790099e-02
+iteration 205 energy 1.147775e+01 norm 1.000079e+00 error 3.424194e-01
+iteration 206 energy 1.147876e+01 norm 9.999660e-01 error 1.384178e-02
+iteration 207 energy 1.147908e+01 norm 9.999595e-01 error 8.799973e-03
+iteration 208 energy 1.147673e+01 norm 9.998982e-01 error 7.711421e-03
+iteration 209 energy 1.147025e+01 norm 1.000273e+00 error 1.764966e-02
+iteration 210 energy 1.141034e+01 norm 1.003913e+00 error 3.041991e-02
+iteration 211 energy 1.147832e+01 norm 1.000081e+00 error 8.862808e-02
+iteration 212 energy 1.147862e+01 norm 1.000161e+00 error 1.005505e-02
+iteration 213 energy 1.147871e+01 norm 1.000077e+00 error 8.385904e-03
+iteration 214 energy 1.146825e+01 norm 1.000298e+00 error 7.975223e-03
+iteration 215 energy 1.145057e+01 norm 1.003020e+00 error 3.691042e-02
+iteration 216 energy 1.145026e+01 norm 1.001587e+00 error 5.743845e-02
+iteration 217 energy 1.146678e+01 norm 1.000749e+00 error 5.865591e-02
+iteration 218 energy 5.310330e+00 norm 1.650829e+00 error 3.825144e-02
+iteration 219 energy 1.147863e+01 norm 1.000161e+00 error 2.596782e-01
+iteration 220 energy 1.145361e+01 norm 1.001633e+00 error 1.045956e-02
+iteration 221 energy 1.147852e+01 norm 1.000093e+00 error 5.729960e-02
+iteration 222 energy 1.147757e+01 norm 1.000307e+00 error 9.710049e-03
+iteration 223 energy 1.147152e+01 norm 1.000410e+00 error 1.483304e-02
+iteration 224 energy 1.145269e+01 norm 1.002062e+00 error 2.740052e-02
+iteration 225 energy 1.147683e+01 norm 1.000199e+00 error 5.171769e-02
+iteration 226 energy 1.145956e+01 norm 1.001123e+00 error 1.685594e-02
+iteration 227 energy 1.147478e+01 norm 1.000400e+00 error 4.707346e-02
+iteration 228 energy 1.147566e+01 norm 1.000275e+00 error 2.270130e-02
+iteration 229 energy 8.638180e+00 norm 1.209249e+00 error 1.993212e-02
+iteration 230 energy 2.933799e+00 norm 3.204022e+00 error 3.460550e-01
+iteration 231 energy 2.430758e+00 norm 1.119049e+01 error 1.422789e-01
+iteration 232 energy 1.143375e+01 norm 1.003397e+00 error 8.473299e-02
+iteration 233 energy 1.119726e+01 norm 1.024719e+00 error 7.564065e-02
+iteration 234 energy 1.096877e+01 norm 1.035748e+00 error 1.789132e-01
+iteration 235 energy 1.134744e+01 norm 1.006413e+00 error 2.357088e-01
+iteration 236 energy 1.126220e+01 norm 1.015099e+00 error 1.234651e-01
+iteration 237 energy 1.130291e+01 norm 1.009461e+00 error 1.221319e-01
+iteration 238 energy 1.128667e+01 norm 1.011733e+00 error 1.330382e-01
+iteration 239 energy 1.142026e+01 norm 1.003254e+00 error 1.255002e-01
+iteration 240 energy 1.143642e+01 norm 1.002131e+00 error 6.816239e-02
+iteration 241 energy 1.147082e+01 norm 1.000849e+00 error 7.164827e-02
+iteration 242 energy 1.147419e+01 norm 1.000471e+00 error 2.636286e-02
+iteration 243 energy 1.147549e+01 norm 1.000274e+00 error 2.162006e-02
+iteration 244 energy 1.147000e+01 norm 1.000444e+00 error 1.554667e-02
+iteration 245 energy 1.140239e+01 norm 1.007634e+00 error 2.976198e-02
+iteration 246 energy 1.147823e+01 norm 1.000086e+00 error 7.148113e-02
+iteration 247 energy 1.146926e+01 norm 1.000621e+00 error 8.855941e-03
+iteration 248 energy 1.055249e+01 norm 1.073149e+00 error 2.562876e-02
+iteration 249 energy 1.064949e+01 norm 1.065262e+00 error 2.215049e-01
+iteration 250 energy 1.133593e+01 norm 1.010205e+00 error 2.114468e-01
+iteration 251 energy 1.146342e+01 norm 1.001118e+00 error 1.046348e-01
+iteration 252 energy 1.147511e+01 norm 1.000352e+00 error 4.056268e-02
+iteration 253 energy 7.135529e+00 norm 1.552224e+00 error 1.774689e-02
+iteration 254 energy 1.144897e+01 norm 1.002468e+00 error 2.530156e-01
+iteration 255 energy 1.144604e+01 norm 1.002474e+00 error 4.662586e-02
+iteration 256 energy 1.142829e+01 norm 1.003813e+00 error 5.096443e-02
+iteration 257 energy 1.147481e+01 norm 1.000368e+00 error 6.047756e-02
+iteration 258 energy 1.131272e+01 norm 1.010493e+00 error 1.881177e-02
+iteration 259 energy 1.146903e+01 norm 1.000553e+00 error 1.319700e-01
+iteration 260 energy 1.147509e+01 norm 9.998936e-01 error 3.453203e-02
+iteration 261 energy 1.146025e+01 norm 1.001447e+00 error 1.778474e-02
+iteration 262 energy 1.147675e+01 norm 1.000080e+00 error 3.571084e-02
+iteration 263 energy 1.147649e+01 norm 1.000085e+00 error 1.557770e-02
+iteration 264 energy 1.147747e+01 norm 1.000090e+00 error 1.652401e-02
+iteration 265 energy 1.118851e+01 norm 1.024304e+00 error 1.232252e-02
+iteration 266 energy 1.115569e+01 norm 1.024203e+00 error 1.343327e-01
+iteration 267 energy 1.147674e+01 norm 1.000206e+00 error 1.398547e-01
+iteration 268 energy 1.147696e+01 norm 1.000182e+00 error 1.438734e-02
+iteration 269 energy 1.147044e+01 norm 1.000662e+00 error 1.474866e-02
+iteration 270 energy 1.147230e+01 norm 1.000806e+00 error 3.102523e-02
+iteration 271 energy 1.143133e+01 norm 1.002723e+00 error 2.826077e-02
+iteration 272 energy 1.146710e+01 norm 1.000703e+00 error 7.203525e-02
+iteration 273 energy 1.146481e+01 norm 1.000840e+00 error 3.554598e-02
+iteration 274 energy 1.146702e+01 norm 1.000677e+00 error 3.826380e-02
+iteration 275 energy 1.146216e+01 norm 1.000951e+00 error 3.574136e-02
+iteration 276 energy 1.144827e+01 norm 1.001877e+00 error 4.295350e-02
+iteration 277 energy 1.147692e+01 norm 9.993169e-01 error 5.616624e-02
+iteration 278 energy 1.144863e+01 norm 1.002072e+00 error 1.526811e-02
+iteration 279 energy 1.134508e+01 norm 1.001061e+00 error 5.699540e-02
+iteration 280 energy 1.143227e+01 norm 1.003414e+00 error 1.268838e-01
+iteration 281 energy 1.145320e+01 norm 1.001573e+00 error 7.035260e-02
+iteration 282 energy 1.147060e+01 norm 1.000525e+00 error 4.818679e-02
+iteration 283 energy 1.142533e+01 norm 1.005176e+00 error 3.000459e-02
+iteration 284 energy 1.147738e+01 norm 1.000247e+00 error 6.344667e-02
+iteration 285 energy 1.147456e+01 norm 1.000370e+00 error 1.174204e-02
+iteration 286 energy 1.147660e+01 norm 1.000228e+00 error 1.821573e-02
+iteration 287 energy 1.140252e+01 norm 1.005196e+00 error 1.304239e-02
+iteration 288 energy 1.129234e+01 norm 1.011647e+00 error 8.122165e-02
+iteration 289 energy 1.144547e+01 norm 1.001898e+00 error 1.243652e-01
+iteration 290 energy 1.147777e+01 norm 1.000120e+00 error 5.452514e-02
+iteration 291 energy 1.147722e+01 norm 1.000101e+00 error 1.060547e-02
+iteration 292 energy 1.147733e+01 norm 1.000083e+00 error 1.222130e-02
+iteration 293 energy 1.147503e+01 norm 1.000205e+00 error 1.129600e-02
+iteration 294 energy 1.147502e+01 norm 1.000269e+00 error 1.707387e-02
+iteration 295 energy 1.147453e+01 norm 1.000300e+00 error 1.795586e-02
+iteration 296 energy 1.147586e+01 norm 1.000206e+00 error 2.127732e-02
+iteration 297 energy 1.147335e+01 norm 1.000390e+00 error 1.820208e-02
+iteration 298 energy 1.146971e+01 norm 1.000690e+00 error 2.320044e-02
+iteration 299 energy 1.147743e+01 norm 1.000456e+00 error 2.921103e-02
+iteration 300 energy 1.120763e+01 norm 1.012294e+00 error 1.147510e-02
+Potential was shifted 301 times
+Final energy without shift:  1.120763e+01
+5.000017e-01
+1.500012e+00
+2.500026e+00
+3.500045e+00
+4.499989e+00
+5.499973e+00
+6.499810e+00
+7.499135e+00
+8.496642e+00
+9.491444e+00
+1.048323e+01
+1.120763e+01
+H: 
+[ 0,*]   0.50000174   0.00000000   0.00008801   0.00000000  -0.00056385   0.00000000  -0.00162915  -0.00000000   0.00497575  -0.00191861   0.00063848  -0.01048978
+[ 1,*]   0.00000000   1.50001218  -0.00000000  -0.00028532   0.00000000   0.00075600  -0.00000000  -0.00080900  -0.00000000  -0.00151139   0.00000991   0.21048313
+[ 2,*]   0.00008801  -0.00000000   2.50002646   0.00000000   0.00323255  -0.00000000   0.00076489   0.00000000   0.00775113   0.00108910  -0.00164804   0.01579420
+[ 3,*]   0.00000000  -0.00028532   0.00000000   3.50004474   0.00000000   0.00442711  -0.00000000   0.00384291  -0.00000000  -0.00052657  -0.00027279   0.25745355
+[ 4,*]  -0.00056385   0.00000000   0.00323255   0.00000000   4.49998897   0.00000000  -0.00023016   0.00000000  -0.00324356  -0.00029450   0.00292976  -0.25788606
+[ 5,*]   0.00000000   0.00075600  -0.00000000   0.00442711   0.00000000   5.49997339  -0.00000000  -0.01554480   0.00000002  -0.00045185   0.00005637  -0.12665733
+[ 6,*]  -0.00162916  -0.00000000   0.00076489  -0.00000000  -0.00023016  -0.00000000   6.49980978   0.00000000   0.00102157  -0.00006948  -0.00116859  -0.12422800
+[ 7,*]  -0.00000000  -0.00080900   0.00000000   0.00384291   0.00000000  -0.01554480  -0.00000000   7.49913492  -0.00000016   0.00418203   0.00000887   0.05109533
+[ 8,*]   0.00497575  -0.00000000   0.00775113  -0.00000000  -0.00324356   0.00000002   0.00102157  -0.00000016   8.49664187   0.00000585   0.01578348   0.03744907
+[ 9,*]  -0.00191861  -0.00151139   0.00108910  -0.00052657  -0.00029450  -0.00045185  -0.00006948   0.00418203   0.00000585   9.49144421  -0.00002581  -0.05579200
+[10,*]   0.00063848   0.00000991  -0.00164804  -0.00027279   0.00292976   0.00005637  -0.00116859   0.00000887   0.01578348  -0.00002581  10.48323014  -0.00868536
+[11,*]  -0.01048978   0.21048313   0.01579420   0.25745355  -0.25788606  -0.12665733  -0.12422800   0.05109533   0.03744907  -0.05579200  -0.00868536  11.20763038
+
+dia_matrix: 
+[ 0,*]   0.50000057   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 1,*]   0.00000000   1.50001182   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 2,*]   0.00000000   0.00000000   2.50001882   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 3,*]   0.00000000   0.00000000   0.00000000   3.50004098   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 4,*]   0.00000000   0.00000000   0.00000000   0.00000000   4.49999586   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 5,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   5.49997063   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 6,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   6.49980683   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000
+[ 7,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   7.49910250   0.00000000   0.00000000   0.00000000   0.00000000
+[ 8,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   8.49673182   0.00000000   0.00000000   0.00000000
+[ 9,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   9.49057839   0.00000000   0.00000000
+[10,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  10.48343824   0.00000000
+[11,*]   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000   0.00000000  11.48106313
+
+Diagonalize
+Energy: 5.000006e-01
+Energy: 1.500036e+00
+Energy: 2.500052e+00
+Energy: 3.500042e+00
+Energy: 4.499996e+00
+Energy: 5.499974e+00
+Energy: 6.499816e+00
+Energy: 7.499116e+00
+Energy: 8.496732e+00
+Energy: 9.490578e+00
+Energy: 1.048344e+01
+Energy: 1.148107e+01
+finished at time 34.9

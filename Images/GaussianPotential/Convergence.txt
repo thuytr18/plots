@@ -1,0 +1,259 @@
+[  3%] Built target MADtinyxml-obj
+[  3%] Built target MADmuparser-obj
+[  6%] Built target MADmisc-obj
+[  6%] Built target MADtensor-obj
+[  7%] Built target MADlinalg-obj
+[ 10%] Built target MADmra-obj
+[ 17%] Built target MADworld-obj
+[ 17%] Built target MADtinyxml
+[ 17%] Built target MADmuparser
+[ 18%] Built target MADgtest
+[ 18%] Built target MADnlohmann_json-obj
+[ 28%] Built target MADchem-obj
+[ 31%] Built target MADresponse-obj
+[ 33%] Built target MADresponse_base-obj
+[ 35%] Built target MADall_response-obj
+[ 35%] Built target MADworld
+[ 35%] Built target MADnlohmann_json
+[ 36%] Built target madness
+[ 39%] Built target test_atomicint
+[ 39%] Built target test_ar
+[ 39%] Built target test_prof
+[ 39%] Built target test_hashdc
+[ 40%] Built target test_hello
+[ 41%] Built target test_future
+[ 41%] Built target test_future2
+[ 41%] Built target test_future3
+[ 42%] Built target test_world
+[ 42%] Built target test_vector
+[ 42%] Built target test_worldprofile
+[ 42%] Built target test_dc
+[ 42%] Built target test_queue
+[ 42%] Built target test_hashthreaded
+[ 43%] Built target test_binsorter
+[ 43%] Built target test_worldptr
+[ 44%] Built target MADmisc
+[ 45%] Built target test_tree
+[ 46%] Built target test_stack
+[ 46%] Built target test_worldref
+[ 46%] Built target test_googletest
+[ 46%] Built target interp3
+[ 46%] Built target MADtensor
+[ 46%] Built target MADlinalg
+[ 48%] Built target test_mtxmq
+[ 48%] Built target test_tensor
+[ 48%] Built target oldtest
+[ 48%] Built target test_Zmtxmq
+[ 48%] Built target jimkernel
+[ 51%] Built target test_distributed_matrix
+[ 51%] Built target test_systolic
+[ 51%] Built target test_linalg
+[ 51%] Built target MADmra
+[ 52%] Built target test_solvers
+[ 52%] Built target test_jacobi
+[ 53%] Built target testseprep
+[ 56%] Built target testgconv
+[ 56%] Built target testproj
+[ 56%] Built target testbsh
+[ 56%] Built target testdiff1Db
+[ 56%] Built target mraplot
+[ 56%] Built target testpdiff
+[ 57%] Built target testinnerext
+[ 57%] Built target testopdir
+[ 62%] Built target test_vectormacrotask
+[ 62%] Built target test_cloud
+[ 62%] Built target testvmra
+[ 62%] Built target test_QCCalculationParametersBase
+[ 62%] Built target testgaxpyext
+[ 63%] Built target test_tree_state
+[ 63%] Built target libtest_sepop
+[ 64%] Built target test_macrotaskpartitioner
+[ 64%] Built target MADchem
+[ 64%] Built target testbc
+[ 65%] Built target test6
+[ 65%] Built target testqm
+[ 65%] Built target testperiodic
+[ 66%] Built target testdiff1D
+[ 67%] Built target testdiff2D
+[ 67%] Built target testdiff3D
+[ 67%] Built target MADresponse_base
+[ 67%] Built target MADresponse
+[ 70%] Built target MADall_response
+[ 70%] Built target tdse
+[ 70%] Built target tdse4
+[ 70%] Built target testpg
+[ 70%] Built target moldft
+[ 71%] Built target testperiodicdft
+[ 72%] Built target nemo
+[ 72%] Built target pno
+[ 73%] Built target mp2
+[ 73%] Built target cis
+[ 73%] Built target cc2
+[ 75%] Built target DFdriver
+[ 75%] Built target oep
+[ 76%] Built target znemo
+[ 76%] Built target madinfo
+[ 76%] Built target h2dft
+[ 76%] Built target zcis
+[ 76%] Built target hedft
+[ 78%] Built target hatom_energy
+[ 78%] Built target hello
+[ 79%] Built target h2
+[ 80%] Built target he
+[ 82%] Built target hatom_sf_dirac
+[ 82%] Built target hatom
+[ 82%] Built target heat
+[ 82%] Built target tdse_example
+[ 82%] Built target heat2
+[ 82%] Built target csqrt
+[ 83%] Built target test_gmres
+[ 83%] Built target sdf_shape_tester
+[ 84%] Built target binaryop
+[ 84%] Built target sininteg
+[ 84%] Built target dataloadbal
+[ 84%] Built target nonlinschro
+[ 84%] Built target functionio
+[ 84%] Built target vnucso
+[ 84%] Built target tdse1d
+[ 84%] Built target hatom_1d
+[ 87%] Built target 3dharmonic
+[ 87%] Built target testspectralprop
+[ 87%] Built target testsolver
+[ 87%] Built target hehf
+[ 87%] Built target dielectric
+[ 87%] Built target dielectric_external_field
+[ 88%] Built target tiny
+[ 89%] Built target h2dynamic
+[ 89%] Built target derivatives
+[ 89%] Built target newsolver
+[ 89%] Built target testcomplexfunctionsolver
+[ 89%] Built target helium_exact
+[ 90%] Built target ac_corr
+[ 90%] Built target density_smoothing
+[ 91%] Built target siam_example
+[ 92%] Built target dirac-hatom
+[ 92%] Built target array_worldobject
+[ 92%] Building CXX object src/bachelorthesis/CMakeFiles/wavefunctions.dir/wavefunctions.cc.o
+[ 92%] Built target testsuite
+[ 92%] Built target 1dharmonic
+[ 92%] Built target plotxc
+[ 92%] Built target test_pointgroupsymmetry
+[ 93%] Built target testper
+[ 93%] Built target test_masks_and_boxes
+[ 94%] Built target test_MolecularOrbitals
+[ 94%] Built target test_BSHApply
+[ 94%] Built target test_ccpairfunction
+[ 94%] Built target test_projector
+[ 95%] Built target test_qc
+[ 95%] Built target test_localizer
+[ 95%] Built target test_low_rank_function
+[ 97%] Built target benchmark_exchange_operator
+[ 97%] Built target plot2plane
+[ 97%] Built target testxc
+[ 97%] Built target plot2cube
+[ 98%] Built target molresponse
+[100%] Linking CXX executable wavefunctions
+[100%] Built target wavefunctions
+/home/mochibee/OneDrive/Dokumente/UNIVERSITAET/2024_SS/Bachelorarbeit/Madness/plot
+MADNESS runtime initialized with 15 threads in the pool and affinity OFF
+starting at time 0.2
+Order of the first monomial:
+0
+Counter: 1 and current num: 4
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 0
+All zero
+Order of the first monomial:
+1
+Counter: 2 and current num: 4
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 1
+First non-zero: 1
+Break
+Order of the first monomial:
+2
+Counter: 3 and current num: 4
+Get the other orders: 
+First non-zero: 0
+order with first non-zero: 2
+First non-zero: 1
+Break
+Order of the first monomial:
+3
+Counter: 4 and current num: 4
+Return guesses
+-1.402891e+03
+-4.159338e+02
+-4.048560e+02
+-6.212171e+02
+H: 
+[0,*] -1402.89116285   0.00000000 -504.55650959   0.00000000
+[1,*]  -0.00000000 -415.93381704   0.00000000 -449.16732866
+[2,*] -504.55650959   0.00000000 -404.85598239   0.00000000
+[3,*]   0.00000000 -449.16732866   0.00000000 -621.21713897
+
+dia_matrix: 
+[0,*]  -8.36132945   0.00000000   0.00000000   0.00000000
+[1,*]   0.00000000  -5.37549034   0.00000000   0.00000000
+[2,*]   0.00000000   0.00000000  -2.38611929   0.00000000
+[3,*]   0.00000000   0.00000000   0.00000000  -0.89428812
+
+iteration 0 energy -8.478975e+00 norm 1.002081e+00 error 8.748140e-02
+iteration 1 energy -8.508140e+00 norm 9.965928e-01 error 3.412194e-02
+iteration 2 energy -8.513107e+00 norm 1.000137e+00 error 1.330176e-02
+iteration 3 energy -8.513115e+00 norm 9.999899e-01 error 6.135572e-04
+iteration 4 energy -8.513115e+00 norm 1.000000e+00 error 5.324255e-05
+Final energy without shift:  -8.513115e+00
+iteration 0 energy -5.647689e+00 norm 1.004432e+00 error 1.474422e-01
+iteration 1 energy -5.728199e+00 norm 9.883065e-01 error 6.213860e-02
+iteration 2 energy -5.742551e+00 norm 9.998956e-01 error 2.492874e-02
+iteration 3 energy -5.742608e+00 norm 1.000005e+00 error 1.388718e-03
+iteration 4 energy -5.742613e+00 norm 9.999879e-01 error 3.723694e-04
+Final energy without shift:  -5.742613e+00
+iteration 0 energy -3.005568e+00 norm 9.764184e-01 error 2.585311e-01
+iteration 1 energy -3.381308e+00 norm 9.866049e-01 error 1.635665e-01
+iteration 2 energy -3.398084e+00 norm 9.883660e-01 error 6.113739e-02
+iteration 3 energy -3.416230e+00 norm 9.868037e-01 error 6.169377e-02
+iteration 4 energy -3.435371e+00 norm 9.849280e-01 error 7.537412e-02
+iteration 5 energy -3.415994e+00 norm 9.924439e-01 error 1.106567e-01
+iteration 6 energy -3.402300e+00 norm 1.004732e+00 error 7.058273e-02
+iteration 7 energy -3.402022e+00 norm 9.995442e-01 error 1.027696e-02
+iteration 8 energy -3.402016e+00 norm 1.000066e+00 error 1.523826e-03
+iteration 9 energy -3.402016e+00 norm 1.000062e+00 error 6.217887e-04
+iteration 10 energy -3.402015e+00 norm 1.000046e+00 error 5.892460e-04
+iteration 11 energy -3.402015e+00 norm 1.000002e+00 error 4.585040e-04
+Final energy without shift:  -3.402015e+00
+iteration 0 energy -1.241758e+00 norm 9.568712e-01 error 2.016244e-01
+iteration 1 energy -1.539450e+00 norm 9.122511e-01 error 1.809887e-01
+iteration 2 energy -1.563068e+00 norm 9.668780e-01 error 9.262980e-02
+iteration 3 energy -1.622032e+00 norm 9.512315e-01 error 1.103271e-01
+iteration 4 energy -1.562900e+00 norm 1.039749e+00 error 2.116454e-01
+iteration 5 energy -1.553885e+00 norm 9.916438e-01 error 7.267908e-02
+iteration 6 energy -1.553541e+00 norm 1.001501e+00 error 1.445154e-02
+iteration 7 energy -1.553533e+00 norm 1.000357e+00 error 2.412192e-03
+iteration 8 energy -1.553533e+00 norm 9.999772e-01 error 3.086165e-04
+Final energy without shift:  -1.553533e+00
+-8.513115e+00
+-5.742613e+00
+-3.402015e+00
+-1.553533e+00
+H: 
+[0,*]  -8.51311526   0.00000000  -0.00251505  -0.00000000
+[1,*]  -0.00000000  -5.74261255   0.00000000   0.00013745
+[2,*]  -0.00251505   0.00000000  -3.40201525  -0.00000000
+[3,*]  -0.00000000   0.00013745  -0.00000000  -1.55353298
+
+dia_matrix: 
+[0,*]  -8.51311526   0.00000000   0.00000000   0.00000000
+[1,*]   0.00000000  -5.74261255   0.00000000   0.00000000
+[2,*]   0.00000000   0.00000000  -3.40201481   0.00000000
+[3,*]   0.00000000   0.00000000   0.00000000  -1.55353298
+
+Diagonalize
+Energy: -8.513115e+00
+Energy: -5.742613e+00
+Energy: -3.402015e+00
+Energy: -1.553533e+00
+finished at time 1.1

@@ -1,0 +1,95 @@
+MADNESS runtime initialized with 15 threads in the pool and affinity OFF
+starting at time 0.3
+Hartree Fock with given initial guess
+Start optimization
+Energy: -8.390125e+00
+kin_energy: 4.176246e+00
+pot_energy: -1.258551e+01
+H:
+[0,*]  -8.40926061
+
+dia_matrix:
+[0,*]  -1.51019491
+
+Auswertung fock_operator: 2.108349e+00
+Size Fock_operator: 1
+Evals: -1.510195e+00
+Auswertung function: 7.242493e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.242493e-01
+Energy: -8.823991e-01
+kin_energy: 4.002419e-01
+pot_energy: -1.286685e+00
+H:
+[0,*]  -0.88644324
+
+dia_matrix:
+[0,*]  -1.68995374
+
+iteration 0 error 3.657466e-01
+Auswertung fock_operator: 1.894867e+00
+Size Fock_operator: 1
+Evals: -1.689954e+00
+Auswertung function: 7.112073e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.112073e-01
+Energy: -8.303852e-01
+kin_energy: 3.419231e-01
+pot_energy: -1.176317e+00
+H:
+[0,*]  -0.83439356
+
+dia_matrix:
+[0,*]  -1.64959957
+
+iteration 1 error 3.003872e-01
+Auswertung fock_operator: 1.968152e+00
+Size Fock_operator: 1
+Evals: -1.649600e+00
+Auswertung function: 7.116661e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.116661e-01
+Energy: -8.366077e-01
+kin_energy: 3.463544e-01
+pot_energy: -1.187062e+00
+H:
+[0,*]  -0.84070783
+
+dia_matrix:
+[0,*]  -1.65994075
+
+iteration 2 error 2.918156e-01
+Auswertung fock_operator: 2.000815e+00
+Size Fock_operator: 1
+Evals: -1.659941e+00
+Auswertung function: 7.124488e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.124488e-01
+Energy: -8.336857e-01
+kin_energy: 3.394000e-01
+pot_energy: -1.177214e+00
+H:
+[0,*]  -0.83781364
+
+dia_matrix:
+[0,*]  -1.65059345
+
+iteration 3 error 2.887081e-01
+Auswertung fock_operator: 2.492411e+00
+Size Fock_operator: 1
+Evals: -1.650593e+00
+Auswertung function: 7.126577e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.126577e-01
+Energy: -8.354241e-01
+kin_energy: 3.411635e-01
+pot_energy: -1.180732e+00
+H:
+[0,*]  -0.83956897
+
+dia_matrix:
+[0,*]  -1.65308195
+
+iteration 4 error 2.878783e-01
+finished at time 376.4
+MADNESS runtime finalized but 1 world still exists

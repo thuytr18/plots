@@ -1,0 +1,254 @@
+[  2%] Built target MADtensor-obj
+[  2%] Built target MADmuparser-obj
+[  5%] Built target MADtinyxml-obj
+[  5%] Built target MADmisc-obj
+[  6%] Built target MADlinalg-obj
+[  9%] Built target MADmra-obj
+[ 15%] Built target MADworld-obj
+[ 15%] Built target MADmuparser
+[ 16%] Built target MADgtest
+[ 16%] Built target MADnlohmann_json-obj
+[ 25%] Built target MADchem-obj
+[ 27%] Built target MADresponse-obj
+[ 28%] Built target MADworld
+[ 30%] Built target MADresponse_base-obj
+[ 32%] Built target MADall_response-obj
+[ 32%] Built target MADtinyxml
+[ 34%] Built target MADnlohmann_json
+[ 35%] Built target madness
+[ 36%] Built target test_ar
+[ 36%] Built target test_prof
+[ 36%] Built target test_hashdc
+[ 36%] Built target test_hello
+[ 36%] Built target test_atomicint
+[ 37%] Built target test_future
+[ 37%] Built target test_future2
+[ 38%] Built target test_future3
+[ 39%] Built target test_dc
+[ 39%] Built target test_hashthreaded
+[ 40%] Built target test_queue
+[ 40%] Built target test_world
+[ 40%] Built target test_worldprofile
+[ 41%] Built target test_binsorter
+[ 41%] Built target test_vector
+[ 42%] Built target test_worldptr
+[ 43%] Built target test_stack
+[ 43%] Built target test_worldref
+[ 44%] Built target test_googletest
+[ 44%] Built target test_tree
+[ 44%] Built target MADmisc
+[ 44%] Built target MADtensor
+[ 45%] Built target interp3
+[ 45%] Built target MADlinalg
+[ 47%] Built target oldtest
+[ 47%] Built target test_tensor
+[ 47%] Built target jimkernel
+[ 47%] Built target test_mtxmq
+[ 47%] Built target test_distributed_matrix
+[ 47%] Built target test_systolic
+[ 47%] Built target test_Zmtxmq
+[ 47%] Built target test_linalg
+[ 47%] Built target MADmra
+[ 47%] Built target test_solvers
+[ 48%] Built target test_jacobi
+[ 48%] Built target testseprep
+[ 49%] Built target testdiff1Db
+[ 49%] Built target testbsh
+[ 49%] Built target testpdiff
+[ 49%] Built target mraplot
+[ 50%] Built target testproj
+[ 50%] Built target testinnerext
+[ 50%] Built target testgconv
+[ 51%] Built target testopdir
+[ 51%] Built target testgaxpyext
+[ 51%] Built target testvmra
+[ 54%] Built target test_tree_state
+[ 54%] Built target test_cloud
+[ 55%] Built target test_QCCalculationParametersBase
+[ 54%] Built target test_vectormacrotask
+[ 56%] Built target test_macrotaskpartitioner
+[ 57%] Built target libtest_sepop
+[ 60%] Built target testqm
+[ 60%] Built target testbc
+[ 60%] Built target test6
+[ 60%] Built target testperiodic
+[ 60%] Built target testdiff1D
+[ 60%] Built target testdiff2D
+[ 60%] Built target MADchem
+[ 61%] Built target testdiff3D
+[ 62%] Built target plotxc
+[ 62%] Built target tdse4
+[ 62%] Built target tdse
+[ 62%] Built target testsuite
+[ 63%] Built target testper
+[ 63%] Built target test_qc
+[ 63%] Built target test_masks_and_boxes
+[ 63%] Built target test_pointgroupsymmetry
+[ 64%] Built target test_BSHApply
+[ 64%] Built target test_MolecularOrbitals
+[ 67%] Built target test_localizer
+[ 67%] Built target test_projector
+[ 69%] Built target testxc
+[ 69%] Built target benchmark_exchange_operator
+[ 69%] Built target test_low_rank_function
+[ 69%] Built target test_ccpairfunction
+[ 71%] Built target MADall_response
+[ 71%] Built target MADresponse_base
+[ 71%] Built target MADresponse
+[ 72%] Built target moldft
+[ 72%] Built target plot2plane
+[ 72%] Built target plot2cube
+[ 73%] Built target testpg
+[ 73%] Built target testperiodicdft
+[ 75%] Built target nemo
+[ 75%] Built target pno
+[ 75%] Built target cis
+[ 76%] Built target cc2
+[ 77%] Built target mp2
+[ 78%] Built target znemo
+[ 78%] Built target oep
+[ 79%] Built target DFdriver
+[ 79%] Built target madinfo
+[ 79%] Built target zcis
+[ 79%] Built target h2dft
+[ 80%] Built target hello
+[ 80%] Built target hedft
+[ 81%] Built target hatom_energy
+[ 82%] Built target h2
+[ 83%] Built target he
+[ 84%] Built target tdse_example
+[ 84%] Built target heat
+[ 85%] Built target heat2
+[ 85%] Built target csqrt
+[ 85%] Built target hatom
+[ 85%] Built target hatom_sf_dirac
+[ 85%] Built target sdf_shape_tester
+[ 85%] Built target test_gmres
+[ 86%] Built target vnucso
+[ 87%] Built target sininteg
+[ 88%] Built target nonlinschro
+[ 88%] Built target tdse1d
+[ 89%] Built target dataloadbal
+[ 89%] Built target binaryop
+[ 89%] Built target functionio
+[ 89%] Built target hatom_1d
+[ 90%] Built target hehf
+[ 90%] Built target dielectric
+[ 90%] Built target 3dharmonic
+[ 91%] Built target testsolver
+[ 92%] Built target tiny
+[ 92%] Built target testspectralprop
+[ 92%] Built target dielectric_external_field
+[ 93%] Built target h2dynamic
+[ 94%] Built target helium_exact
+[ 94%] Built target newsolver
+[ 94%] Built target testcomplexfunctionsolver
+[ 94%] Built target density_smoothing
+[ 95%] Built target siam_example
+[ 95%] Built target dirac-hatom
+[ 96%] Built target ac_corr
+[ 97%] Built target derivatives
+[ 98%] Built target eigensolver
+[ 98%] Built target 1dharmonic
+Consolidate compiler generated dependencies of target hartreefock3D
+[ 98%] Built target array_worldobject
+[ 98%] Built target hartreefock
+[ 98%] Built target molresponse
+[ 98%] Building CXX object src/bachelorthesis/CMakeFiles/hartreefock3D.dir/hartreefock3D.cc.o
+[100%] Linking CXX executable hartreefock3D
+[100%] Built target hartreefock3D
+/home/mochibee/OneDrive/Dokumente/UNIVERSITAET/2024_SS/Bachelorarbeit/Madness/plot
+MADNESS runtime initialized with 15 threads in the pool and affinity OFF
+starting at time 0.3
+Hartree Fock with given initial guess
+Start optimization
+Energy: -2.095650e+01
+kin_energy: 4.176246e+00
+pot_energy: -2.515188e+01
+H: 
+[0,*] -20.97563123
+
+dia_matrix: 
+[0,*]  -3.76695325
+
+Auswertung fock_operator: 4.894098e+00
+Size Fock_operator: 1
+Evals: -3.766953e+00
+Auswertung function: 8.507765e-01
+Size New_eigenfunctions: 1
+Auswertung: 8.507765e-01
+Energy: -3.723760e+00
+kin_energy: 9.407816e-01
+pot_energy: -4.668986e+00
+H: 
+[0,*]  -3.72820386
+
+dia_matrix: 
+[0,*]  -5.15072849
+
+iteration 0 error 2.849589e-01
+Auswertung fock_operator: 6.418829e+00
+Size Fock_operator: 1
+Evals: -5.150728e+00
+Auswertung function: 7.744086e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.744086e-01
+Energy: -3.565537e+00
+kin_energy: 1.172172e+00
+pot_energy: -4.740555e+00
+H: 
+[0,*]  -3.56838320
+
+dia_matrix: 
+[0,*]  -5.95019384
+
+iteration 1 error 2.662385e-01
+Auswertung fock_operator: 7.120475e+00
+Size Fock_operator: 1
+Evals: -5.950194e+00
+Auswertung function: 7.375229e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.375229e-01
+Energy: -3.440076e+00
+kin_energy: 1.281983e+00
+pot_energy: -4.724180e+00
+H: 
+[0,*]  -3.44219779
+
+dia_matrix: 
+[0,*]  -6.32826657
+
+iteration 2 error 2.732918e-01
+Auswertung fock_operator: 7.501996e+00
+Size Fock_operator: 1
+Evals: -6.328267e+00
+Auswertung function: 7.207195e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.207195e-01
+Energy: -3.372857e+00
+kin_energy: 1.332187e+00
+pot_energy: -4.706858e+00
+H: 
+[0,*]  -3.37467172
+
+dia_matrix: 
+[0,*]  -6.49679231
+
+iteration 3 error 2.815704e-01
+Auswertung fock_operator: 8.040235e+00
+Size Fock_operator: 1
+Evals: -6.496792e+00
+Auswertung function: 7.133918e-01
+Size New_eigenfunctions: 1
+Auswertung: 7.133918e-01
+Energy: -3.340445e+00
+kin_energy: 1.352692e+00
+pot_energy: -4.694820e+00
+H: 
+[0,*]  -3.34212843
+
+dia_matrix: 
+[0,*]  -6.56699750
+
+iteration 4 error 2.870803e-01
+finished at time 441.1
