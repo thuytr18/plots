@@ -11,7 +11,8 @@ if __name__ == '__main__':
     args = sys.argv[1:]  # get all the arguments -> first argument is the potential file, second previous wavefunctions, third current wavefunctions
 
     #print(args)
-
+    plt.figure(figsize=(10, 6))
+    
     for arg in args:
         data = np.loadtxt(arg)  # load the data from the file
 
