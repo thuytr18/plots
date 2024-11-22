@@ -1,3 +1,10 @@
+# ----------------------------------------------------------------------------------------------------
+# Description:
+# This script is used to plot the data from the files provided as arguments.
+# The files should be .dat files created by the Eigensolver.
+# This script can be executed from the command line as follows: python3 plot_1D.py file1.dat file2.dat ...
+# ----------------------------------------------------------------------------------------------------
+
 #!/usr/bin/env python3
 
 import matplotlib.pyplot as plt

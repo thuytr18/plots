@@ -1,3 +1,10 @@
+# -------------------------------------------------------------------------------------------------------------------------------
+# This script is used to make a plot of the wavefunctions and the potential, which is saved as a .png file.
+# It uses three arguments: first the potential file, second the previous wavefunctions, and third the current wavefunctions.
+# It is used in the shell script Eigensolver/plot/plot_phi.sh to make png files of all the wavefunctions in the optimization process.
+# With this you get many png files, which can be combined to a gif file with the python script Eigensolver/plot/togif.py
+# -------------------------------------------------------------------------------------------------------------------------------
+
 #!/usr/bin/env python3
 
 import matplotlib.pyplot as plt

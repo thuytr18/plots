@@ -1,3 +1,10 @@
+# --------------------------------------------------------------------------------------------------------
+# This script is used to convert a sequence of images into a gif file.
+# It uses one argument: the directory where the images are stored.
+# It is used in the shell script Eigensolver/plot/plot_phi.sh to make a gif file of all 
+# the wavefunctions in the optimization process.
+#---------------------------------------------------------------------------------------------------------
+
 #!/usr/bin/env python3
 
 import matplotlib.pyplot as plt
